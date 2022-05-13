@@ -9,7 +9,7 @@ exception
 __add video__
 
 ## Download
-[Ver 0.11](https://github.com/EUHunterTools/EU-Hunter-Tools-0.11/archive/refs/heads/main.zip)
+[Ver 0.11]()
 
 More info will be added in future
 
