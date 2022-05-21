@@ -7,7 +7,7 @@ Just download and run `.exe` file, if your antivirus is blocking files, then jus
 exception
 ## Setting up
 
-[![Watch the video](https://i.imgur.com/aPPhKy4)](https://www.youtube.com/watch?v=1PeHOQT-Rs0)
+[![Watch the video](https://i9.ytimg.com/vi/1PeHOQT-Rs0/hqdefault.jpg?v=6288a3a4&sqp=CKiUpJQG&rs=AOn4CLDf5xsPOPLSdmIzQ6svKMOmp9zIeA)](https://www.youtube.com/watch?v=1PeHOQT-Rs0)
 
 ## Download
 [Ver 0.11](https://github.com/EUHunterTools/EU-Hunter-Tools-0.11/archive/refs/heads/main.zip)
