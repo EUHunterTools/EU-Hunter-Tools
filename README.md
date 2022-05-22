@@ -6,6 +6,8 @@ ____
 Just download and run `.exe` file, if your antivirus is blocking files, then just add it in 
 exception
 ## Setting up
+__Warning! Redownload .exe file if you downloaded it before 22.05.2022, I rebuild it in new ver of VS so it shold help with some compatibility
+problems and should improve performance__
 
 [![Watch the video](https://i9.ytimg.com/vi/1PeHOQT-Rs0/mqdefault.jpg?v=6288a3a4&sqp=CMj4ppQG&rs=AOn4CLDvQZZ7HzFtQFxa_Vw7U9NiaDvdkw)](https://www.youtube.com/watch?v=1PeHOQT-Rs0, "Click to watch YouTube video")
 
