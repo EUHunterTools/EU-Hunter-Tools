@@ -5,10 +5,8 @@ ____
 ## Installation
 Just download and run `.exe` file, if your antivirus is blocking files, then just add it in 
 exception
-## Setting up
-__Warning! Redownload .exe file if you downloaded it before 22.05.2022, I rebuild it in new ver of VS so it should help with some compatibility
-problems and should improve performance__
 
+## Setting up
 [![Watch the video](https://img.youtube.com/vi/1PeHOQT-Rs0/mqdefault.jpg)](https://www.youtube.com/watch?v=1PeHOQT-Rs0, "Click to watch YouTube video")
 
 ## New Ver 0.11.1
