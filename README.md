@@ -12,7 +12,7 @@ problems and should improve performance__
 [![Watch the video](https://img.youtube.com/vi/1PeHOQT-Rs0/mqdefault.jpg)](https://www.youtube.com/watch?v=1PeHOQT-Rs0, "Click to watch YouTube video")
 
 ## Download
-[Ver 0.11](https://github.com/EUHunterTools/EU-Hunter-Tools-0.11/archive/refs/heads/main.zip)
+[Ver 0.11.1](https://github.com/EUHunterTools/EU-Hunter-Tools-0.11/archive/refs/heads/main.zip)
 
 More info will be added in future
 
