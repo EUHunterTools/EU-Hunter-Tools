@@ -1,7 +1,7 @@
 # EU-Hunter-Tools-1.0.0 // ReByK0lb
 ### Tool for collecting, sorting, tracking, modyfing data from your hunting\mining runs for Entropia Universe
 ____
-![](https://img.shields.io/badge/version-v0.11.1-blue)![](https://img.shields.io/badge/.NET-4.8%2B-green)
+![](https://img.shields.io/badge/version-v1.0.0-blue)![](https://img.shields.io/badge/.NET-4.8%2B-green)
 ## Installation
 Just download all files and run `.exe`, no need in installation 
 
