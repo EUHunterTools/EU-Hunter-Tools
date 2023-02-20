@@ -13,7 +13,7 @@ exception
 Check all changes in Releases, all curient files were updated, if you have already 0.11.0, than just replace .exe and EUMats.csv files from new version 
 
 ## Download
-[Ver 0.11.1](https://github.com/EUHunterTools/EU-Hunter-Tools-0.11/archive/refs/heads/main.zip)
+[Ver 1.0.0](https://github.com/EUHunterTools/EU-Hunter-Tools/releases/download/Ver_1.0.0/EU-Hunter.ToolsV1.0.0.7z)
 
 More info will be added in future
 
