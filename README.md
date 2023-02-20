@@ -7,6 +7,9 @@ Just download all files and run `.exe`, no need in installation
 
 ## Setting up
 [![Watch the video](https://img.youtube.com/vi/1PeHOQT-Rs0/mqdefault.jpg)](https://www.youtube.com/watch?v=1PeHOQT-Rs0, "Click to watch YouTube video")
+[![Watch the video](https://img.youtube.com/vi/__9cNrG6fhE/mqdefault.jpg)](https://www.youtube.com/watch?v=9cNrG6fhE, "Click to watch YouTube video")
+
+
 
 ## New Ver 1.0.0
 Check all changes in Releases, all curient files were updated, if you have already 0.10.0-0.11.2, than just replace .exe and files from new version in Addons
