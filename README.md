@@ -3,8 +3,7 @@
 ____
 ![](https://img.shields.io/badge/version-v0.11.1-blue)![](https://img.shields.io/badge/.NET-4.8%2B-green)
 ## Installation
-Just download and run `.exe` file, if your antivirus is blocking files, then just add it in 
-exception
+Just download all files and run `.exe`, no need in installation 
 
 ## Setting up
 [![Watch the video](https://img.youtube.com/vi/1PeHOQT-Rs0/mqdefault.jpg)](https://www.youtube.com/watch?v=1PeHOQT-Rs0, "Click to watch YouTube video")
