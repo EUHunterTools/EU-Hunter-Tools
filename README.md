@@ -9,11 +9,14 @@ exception
 ## Setting up
 [![Watch the video](https://img.youtube.com/vi/1PeHOQT-Rs0/mqdefault.jpg)](https://www.youtube.com/watch?v=1PeHOQT-Rs0, "Click to watch YouTube video")
 
-## New Ver 0.11.1
-Check all changes in Releases, all curient files were updated, if you have already 0.11.0, than just replace .exe and EUMats.csv files from new version 
+## New Ver 1.0.0
+Check all changes in Releases, all curient files were updated, if you have already 0.10.0-0.11.2, than just replace .exe and files from new version in Addons
 
 ## Download
 [Ver 1.0.0](https://github.com/EUHunterTools/EU-Hunter-Tools/releases/download/Ver_1.0.0/EU-Hunter.ToolsV1.0.0.7z)
+
+## Source code
+If you are working with sourse code, unpack packages.7z in packages
 
 More info will be added in future
 
