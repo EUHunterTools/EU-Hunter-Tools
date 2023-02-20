@@ -7,7 +7,7 @@ Just download all files and run `.exe`, no need in installation
 
 ## Setting up
 [![Watch the video](https://img.youtube.com/vi/1PeHOQT-Rs0/mqdefault.jpg)](https://www.youtube.com/watch?v=1PeHOQT-Rs0, "Click to watch YouTube video")
-[![Watch the video](https://img.youtube.com/vi/__9cNrG6fhE/mqdefault.jpg)](https://www.youtube.com/watch?v=9cNrG6fhE, "Click to watch YouTube video")
+[![Watch the video](https://img.youtube.com/vi/__9cNrG6fhE/mqdefault.jpg)](https://www.youtube.com/watch?v=__9cNrG6fhE, "Click to watch YouTube video")
 
 
 
