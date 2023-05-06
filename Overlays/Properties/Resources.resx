@@ -1,0 +1,2737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="EUmats" xml:space="preserve">
+    <value>Name,Value
+A.R.C. Armor Mold (Arm Guards),0.05
+A.R.C. Armor Mold (Boots),0.05
+A.R.C. Armor Mold (Gloves),0.05
+A.R.C. Armor Mold (Harness),0.05
+A.R.C. Armor Mold (Helmet),0.05
+A.R.C. Armor Mold (Leg Guards),0.05
+A.R.C. Armor Mold (Shin Guards),0.05
+A.R.C. HK Mold, 
+A.R.C. Wire Harness,0.1
+Aakas Alloy,0.1
+Aakas Plating,0.3
+Aakas Texture,0.5
+Aarkan Pellets,0.02
+Aarkan Polymer,0.06
+Aarkan Texture,0.15
+Accelerative Matrix Component 1,0.3
+Accelerative Matrix Component 2,0.35
+Accelerative Matrix Component 3,0.5
+Acetylcholine,0.03
+Acid Protective Coating,0.3
+Acid Root,0.32
+Actinolite Crystal, 
+Adamite Crystal,0.8
+Adaptive Fire Rate Component,0.3
+Adaptor,2.2
+Adjusted Nanites,1
+Adomasite Ingot,1.8
+Adomasite Stone,0.6
+Adomasite Texture,0.8
+Advanced Adaptive Fuse,0.96
+Advanced Cloth Extractor,0.01
+Advanced Cooling System Unit,1
+Advanced Electronic Fluid Memory,0.26
+Advanced Feedback Panel,0.17
+Advanced Fluid Energy Source,1
+Advanced Gem Extractor,0.01
+Advanced Heavy Springs,1
+Advanced Leather Extractor,0.01
+Advanced Matrix,0.24
+Advanced Metal Extractor,0.01
+Advanced Mineral Extractor,0.01
+Advanced Modulator,0.08
+Advanced Mountings,1.6
+Advanced Optical Wave Emitter,0.89
+Advanced Organic Wire,1.03
+Advanced Processor,0.096
+Advanced Scanning Sensor,0.33
+Advanced Security Module,0.211
+Advanced Spur Gears 6k,1
+Advanced Stone Extractor,0.01
+Advanced Strategic Combat Processor,0.21
+Advanced Talytic Converters,2.3
+Advanced Target Assessment Unit,0.17
+Advanced VisioMem,0.072
+Advanced Wood Extractor,0.01
+Adventurine Crystal,0.15
+Aegirine Crystal,0.02
+Aetherex Leather,14.1
+Aetherex Leather Texture,1.01
+Aetherex Skin,4.7
+Agate Crystal,0.04
+Agrellite Crystal,0.7
+Alferix Ingot,2.85
+Alferix Stone,0.95
+Alferix Texture,1.15
+Alicenies Gel,0.1
+Alicenies Liquid,0.05
+Alien Acid,0.34
+Alien Biogenic Gel,0.01
+Alien Blood,0.46
+Alien Mutant Skull,9.5
+Alien Resin Fluid,0.12
+Alkar Crystals,0.05
+Alkar Lattice,0.15
+Allophyl DNA Samples,30.1
+Allophyl Fin,9.8
+Allophyl Leather,0.9
+Allophyl Leather Texture,0.33
+Allophyl Skin,0.3
+Allophyl Tentacle,5.6
+Allophyl Thighbone,7.6
+Alloy Hinge,1.1
+Alloy Plate,2.3
+Alternative Ingot,0.03
+Alternative Rock,0.01
+Amazon Arm,0.01
+Amazon Hair,0.01
+Amazon Helmet,0.02
+Amazonite Crystal, 
+Amazon Leg,0.01
+Amazon Sandle,0.01
+Amazon Wrist Guard,0.03
+Amber,10
+Amber Crystal,0.02
+Ambulimax DNA Samples,25.45
+Ambulimax Hair,0.45
+Ambulimax Leather,12
+Ambulimax Leather Texture,1
+Ambulimax Skin,4
+Ambulimax Thigh Bone,7
+American Pirate Flag,1
+Amethyst,50
+Amethyst Crystal,0.02
+Ametrine,130
+Ametrine Crystal, 
+Ammo (High Grade),0.0001
+Ammo (Low Grade),0.0001
+Ammolite Crystal,0.7
+Angelic Flakes,1
+Angelic Grit,0.5
+Angelite Crystal,0.1
+Angel Scales,0.01
+Angle,0.56
+Anhydrite Crystal,0.04
+Animal Adrenal Oil,0.2
+Animal Brain Oil,19
+Animal Essence,0.01
+Animal Essence Rare,0.01
+Animal Eye Oil,0.05
+Animal Heart Oil,10
+Animal Hide,0.01
+Animal Kidney Oil,2
+Animal Liver Oil,1
+Animal Muscle Oil,0.03
+Animal Oil Residue,0.01
+Animal Pancreas Oil,0.5
+Animal Spleen Oil,5
+Animal Thyroid Oil,0.1
+Anti-Glare Spray,0.16
+Antimagnetic Oil,2
+Apatite Crystal,0.03
+Apophyllite Crystal,0.61
+Aqeeq Ingot,0.06
+Aqeeq Stone,0.02
+Aqeeq Texture,0.08
+Aquatic Gland,0.2
+Arabesque Texture,0.04
+Aragonite Crystal,0.01
+Araneatrox Claw,1
+Araneatrox Leather,15
+Araneatrox Leather Texture,6.35
+Araneatrox Skin,5
+Araneatrox Skull,68.5
+Arc,0.8
+Arekite Ingot,0.3
+Arekite Stone,0.1
+Ares Head,0.26
+Ares Powder,0.52
+Argonaut Bone,0.01
+Argonaut Claw Big,0.04
+Argonaut Claw Small,0.02
+Argonaut DNA samples,8
+Argonaut Fang,0.02
+Argonaut Fractured Skull,4
+Argonaut Leather,2.7
+Argonaut Leather Texture,0.46
+Argonaut Skin,0.9
+Argonaut Skull,6
+Arkace Texture,0.04
+Arkace Timber,0.1
+Arkace Veneer,0.01
+Arkadian Golden Key Barrel,18
+Arkadian Golden Key Bearings,2
+Arkadian Golden Key Codex Chamber,40
+Arkadian Golden Key Cog,10
+Arkadian Golden Key Gears,1
+Arkadian Golden Key Housing,30
+Arkadian Golden Key Inner Ring,20
+Arkadian Golden Key Interface,12
+Arkadian Golden Key Outer Ring,30
+Arkadian Golden Key Power Source,6
+Arkadian Hornet Hide,0.02
+Arkadian Hornet Leather,0.06
+Arkadian Hornet Leather Texture,0.01
+Arkoin,0.01
+Armax (bull) DNA Samples,13
+Armax (cow) DNA Samples,11
+Armax Bull Tail,3.2
+Armax Cow Tail,2.7
+Armax Large Horn,0.04
+Armax Leather,3
+Armax Leather Texture,0.62
+Armax Plate,5
+Armax Skin,1
+Armax Skull,13
+Armax Skull Complete,39
+Armax Small Horn,0.02
+Armax Tusk,0.1
+Atacamite Crystal,0.01
+Atlantasite Crystal,0.02
+Atrax Bone,0.05
+Atrax Claw,0.1
+Atrax DNA Samples,20.76
+Atrax Eye,9
+Atrax Jaw,3
+Atrax Leather,6
+Atrax Leather Texture,0.68
+Atrax Skin,2
+Atrox Bone,0.05
+Atrox Claw,0.1
+Atrox DNA Samples,21.81
+Atrox Eye,11
+Atrox Fang,0.02
+Atrox Leather,9
+Atrox Leather Texture,1.25
+Atrox Skin,3
+Atrox Skull,66
+Aumorphite Ingot,8.09
+Aurilinin Gel,4.04
+Aurli Bone Piece,7.4
+Aurli Chitin Scale,4
+Aurli Claw,4.5
+Aurli Dense Plate,4.5
+Aurli Fangs,1.8
+Aurli Larva,0.17
+Aurli Shock Flesh,0.78
+Australian Pirate Flag,2
+Azeztulite Crystal,0.04
+Azurite Crystal,0.03
+Azur Pearls,0.96
+Azzurdite Ingot,3.6
+Azzurdite Stone,1.2
+Azzurdite Texture,1.4
+Bahri Claw,0.04
+Bahri Claw Tips,0.2
+Bahri Hide,0.08
+Bahri Leather,0.32
+Bahri Skin,0.12
+Balancing Agent,0.18
+Ball Bearings,0.02
+Banite Ingot,0.24
+Banite Stones,0.08
+Banite Texture,0.21
+Barite Crystal,0.07
+Basic Adaptive Fuse,0.75
+Basic Auxiliary Socket,0.0136
+Basic Bearings,0.04
+Basic Bolts,0.01
+Basic Cloth Extractor,0.01
+Basic Coil,0.03
+Basic Electronic Fluid Memory,0.08
+Basic Engine,0.052
+Basic Eye Color Set,0.11
+Basic Filters,0.01
+Basic Gem Extractor,0.01
+Basic Hair Color Set,0.11
+Basic Leather Extractor,0.01
+Basic Metal Extractor,0.01
+Basic Mineral Extractor,0.01
+Basic Nuts,0.01
+Basic Optical Wave Emitter,0.68
+Basic Organic Wire,0.82
+Basic Pigment Enhancer,0.01
+Basic Plastic Extractor,0.01
+Basic Power System,0.01
+Basic Processor,0.020797
+Basic Propulsion System,15
+Basic Pump,0.01
+Basic Relay,0.05
+Basic Rings,0.03
+Basic Scanning Sensor,0.11
+Basic Screws,0.04
+Basic Sensor,0.024
+Basic Servo,0.014
+Basic Sheet Metal,0.0392
+Basic Skin Color Set,0.11
+Basic Stone Extractor,0.01
+Basic Strategic Combat Processor,0.04
+Basic Structure,0.0236
+Basic Target Assessment Unit,0.02
+Basic Targeting Chip,0.02
+Basic Tube,0.01
+Basic Vehicle Battery,0.91
+Basic Vehicle Gearbox,1.63
+Basic Vehicle Servo,0.28
+Basic Vehicle Supercharger,0.51
+Basic Vehicle Suspension,0.76
+Basic Wires,0.03
+Basic Wood Extractor,0.01
+Baydar Card Part (Center),0.01
+Baydar Card Part (Left),0.01
+Baydar Card Part (Right),0.01
+Beaten Metal Robot Scrap,1
+Beladoth Back Spike,3.5
+Beladoth Brain,10
+Beladoth DNA Cartridge, 
+Beladoth Eye,1.25
+Beladoth Foot,2.5
+Beladoth Hide,1.5
+Beladoth Leather,4.5
+Beladoth Leather Texture,0.96
+Beladoth Nail,0.54
+Beladoth Spine,3
+Belkar Ingot,0.06
+Belkar Stone,0.02
+Belkar Texture,0.22
+Bell's Chitin Scales,0.9
+Bend,0.67
+Berycled Claw,0.12
+Berycled DNA Samples,20.27
+Berycled Leather,0.9
+Berycled Leather Texture,0.3
+Berycled Sails,0.65
+Berycled Skin,0.3
+Berycled Skull,17
+Berycled Trophy,0.01
+Beryl Crystal,0.08
+Big Bird Wing,0.35
+Big Daddy's Nut Potion,0.02
+Bigwig Board,1.13
+Bigwig Texture,0.28
+Bigwig Veneer,0.01
+Binary Energy,1.5
+Binary Fluid,0.75
+Binding Epoxy,0.9
+Bio ID Verification,16
+Bismuth Fragment,0.2
+Bismuth Plating,0.6
+Bismuth Texture,0.3
+Black Russian Cocktail,0.06
+Black Russian Cocktail Mix,0.03
+Blank Arkadian DNA Cartridge 1,1
+Blank Arkadian DNA Cartridge 2,2
+Blank Arkadian DNA Cartridge 3,3
+Blank Arkadian DNA Cartridge 4,4
+Blank Arkadian DNA Cartridge 5,5
+Blank CD,0.01
+Blausariam Ingot,0.12
+Blausariam Stone,0.04
+Blausariam Texture,0.24
+Blazar Fragment,0.00001
+Blemish Remover,0.2
+Blood Fragment,0.2
+Blood Moss,0.09
+Bloodstone Crystal,0.09
+Bloody Chainsaw Gas Cap,0.1
+BLP Pack,0.0001
+Blue Crystal,0.02
+Blue Crystal Texture,0.0365
+Blue Energized Glass,5
+Blues Ingot,0.06
+Blues Rock,0.02
+Blumenberg AL-34 Plasma Temperature Sensor,2
+Boar DNA Strand,0.02
+Boar Eye,0.03
+Boar Head,0.05
+Boar Heart,0.05
+Boar Hoove,0.01
+Boar Steak,0.02
+Boar Tail,0.02
+Boar Tusk,0.01
+Bodai Dust,0.2
+Bodai Filler,0.4
+Body Fat,0.08
+Boffin Upgrade Parts,2.625
+Bokol DNA Cartridge, 
+Bokol Flesh,2
+Bokol Hide,0.3
+Bokol Leather,0.9
+Bokol Leather Texture,0.22
+Bokol Long Bone, 
+Bokol Lumbar Plate,0.2
+Bokol Mandible,2
+Bokol Skull Plate, 
+Bokol Spinal Plate,2.5
+Bombardo,0.00001
+Bombardo Flakes,2
+Bonding Liquid,0.02
+Bone,0.03
+Bone-in Meat,0.13
+Bone-out Meat,0.13
+Bornite Crystal,0.02
+Bram's Shock Flesh,0.3
+Brass Alloy,0.36
+British Pirate Flag,1
+Broken Dreams,0.05
+Broken Elysian Technology,0.00001
+Broken Firestarter,0.005
+Broken Scorpion,0.005
+Bronze Alloy,0.3
+Bronzite Crystal,0.05
+Brown Snake Skin Cloth,0.9
+Brown Snake Skin Texture,0.3
+Brukite,0.00001
+Brukite Stone Texture,0.01
+Brushed Aluminium Texture,0.66
+Bulging Mutant Skull,7
+Burlap Fabric Texture,0.18
+Bustamite Crystal,0.03
+Busted Zyn Mordincran,0.0001
+Cable Slot Adapter Component 1,0.4
+Cable Slot Adapter Component 2,0.45
+Cable Slot Adapter Component 3,0.6
+Caboria Clam,0.04
+Caboria Cord,0.08
+Caboria Hide,0.07
+Caboria Leather,0.28
+Caboria Shell,0.07
+Caboria Texture,0.19
+Cacoxenite Crystal,0.8
+Calcedony Crystal,1
+Calcite Crystal, 
+Caldorite Ingot,0.51
+Caldorite stone,0.17
+Caldorite Texture,0.37
+Calypso Bone Sample (Mission Item),0.00001
+Campbell's Basic Framework,0.01
+Canvas Fabric Texture,0.31
+Carabok Hide,0.02
+Carabok Leather,0.06
+Carabok Leather Texture,0.01
+Carabok Leg Fur,0.2
+Caroot,0.00001
+Caroot Lubricant,2
+Cat's Eye Crystal,0.04
+Caudatergus Horn,4.67
+Caudatergus Leather,0.75
+Caudatergus Leather Texture,0.18
+Caudatergus Mandible,5.89
+Caudatergus Skin,0.25
+Caudatergus Skull,8
+Caudatergus Trophy,0.01
+Cave Sap,0.39
+Cbase Plastic Texture,0.14
+Cbase Robot Plastic,0.13
+Celestite Stone,0.03
+Cersumon Leather,1.2
+Cersumon Leather Texture,1.2
+Cersumon Skin,0.4
+Cerussite Crystal,0.04
+Chair Frame,0.4
+Chalinum Alloy,2.601
+Chalmon,0.94
+Charisma Potion,0.2
+Charoite Crystal,2
+Cheap A$$ Ammo,0.0001
+Cheetah Cloth,0.6
+Cheetah Hide,0.2
+Cheetah Texture,0.15
+ChemSet,0.3
+Chiastolite Crystal,0.08
+Chilling Agent, 
+Chimera Blood,0.01
+Chimera Claw,0.01
+Chimera Eye,0.01
+Chimera Heart,0.02
+Chimera Hide,0.03
+Chimera Tail,0.02
+Chlorite Crystal,0.04
+Chomper Bone,7.89
+Chomper Cloth,0.72
+Chomper Hide,0.42
+Chomper Leather,1.26
+Chomper Leather Texture,5.43
+Chomper Wool,0.24
+Chrome Texture,1.01
+Chrysoberyl Crystal,0.04
+Chrysoberyl Fasteners,0.1
+Chrysocolla Crystal, 
+Chrysoprase Crystal, 
+Citrine Crystal,0.07
+Clear Crystal,0.1
+Clear Crystal Texture,0.17
+CND Bananas,0.01
+Coarse Frieze Fabric Texture,0.14
+Coarse Frote Fabric Texture,0.23
+Cobalt Fragment,0.2
+Cobalt Ingot,0.6
+Cobaltium Ingot,2.001
+Cobalt Stone,0.2
+Cobalt Texture,0.4
+Code Demon Hide,0.3
+Code Demon Leather, 
+Code Demon Texture,0.15
+Cold Fabric,0.39
+Cold Protective Coating,1
+Cold THING Blood,1
+Color Enhancing Agent,0.3
+Combibo Leather,0.69
+Combibo Leather Texture,0.15
+Combibo Pike,0.04
+Combibo Skin,0.23
+Combustor,0.3
+Common Dung,0.0001
+Component Grease,0.15
+Component Widget 1,0.1
+Component Widget 2,0.1
+Component Widget 3,0.1
+Component Widget 4,0.1
+Component Widget 5,0.1
+Component Widget 6,0.1
+Component Widget 7,0.1
+Component Widget 8,0.1
+Composite Plank,1
+Compound, 
+Compouned Plastic Seal,0.1
+Compressed Plastic Spacers,0.08
+Conduit,0.35
+Copper Ingot,0.48
+Copper Stone,0.16
+,
+Copper Texture,0.36
+Coral,120
+Coral Snake Skin Raw,0.3
+Cordul Ingot,0.6
+Cordul Stone,0.2
+Cornundacauda Flag,3.44
+Cornundacauda Horn,0.04
+Cornundacauda Leather,1.35
+Cornundacauda Leather Texture,0.24
+Cornundacauda Sail,5.6
+Cornundacauda Skin,0.45
+Cornundacauda Skull,11
+Cornundacauda Tentacle,0.12
+Cornundos Leather,0.24
+Cornundos Leather Texture,0.16
+Cornundos Skin,0.08
+Corria Texture,0.08
+Corria Timber,0.2
+Corria Veneer,0.01
+Cosmetic Pen (Black),4
+Cosmetic Pen (Dark Brown),4
+Cosmetic Pen (Royal Blue),4
+Cosmetic Pen (Royal Purple),4
+Cosmetic Pen (Sea Green),4
+Cosmetic Pen (Slate Grey),4
+Cosmetic Pen (White),4
+Couger Cloth,0.15
+Couger Hide,0.05
+Couger Texture,0.15
+Cracked Shell,0.06
+Creative Juice,0.1
+Crocoite Crystal,800
+Crude Oil,0.01
+Crystal Honey,0
+Crystal Pede Hide,0.5
+Crystal Pede Leather,0.15
+Crystal Pede Texture,0.05
+Crystal Pollen,0.00001
+Cube Empowered Lube,0.03
+Cube Enhanced Metal,0.03
+Cube Fortified Motherboard,0.02
+Cube Infused Calcium,0.04
+Cube Infused Hormone,0.11
+CUHOF Key Base,0.04
+CUHOF Key Pins,0.02
+CUHOF Key Ring,0.03
+Cultist Claw,1.6
+Cultist Skull,15.6
+Cumbriz Ingot,0.45
+Cumbriz Stone,0.15
+Cumbriz Texture,0.35
+Cute Chainsaw Gas Cap,0.1
+Cyber Demon Hide,0.4
+Cyber Demon Leather,1.2
+Cyber Demon Texture, 
+Cyclops Arm,0.02
+Cyclops Club,0.1
+Cyclops Eye,0.02
+Cyclops Head,0.01
+Cyclops Leg,0.01
+Cyclops Pouch,0.01
+Cyclops Wrist Guard,0.01
+Cyrene Mission Token,0.01
+Cyrene Token Splinter, 
+Cyrenium Ingot,1.5
+Cyrenium Ore,0.5
+Dahhar Bone,0.05
+Dahhar Hide,0.06
+Dahhar Leather,0.18
+Dahhar Skin,0.03
+Dahhar Texture,0.06
+Daikiba Cloth,0.96
+Daikiba DNA Samples,6
+Daikiba Horn,0.4
+Daikiba Leather,0.45
+Daikiba Leather Texture,0.28
+Daikiba Skin,0.15
+Daikiba Skull,4
+Daikiba Trophy (Quest),0.04
+Daikiba Tusk,4
+Daikiba Wool,0.32
+Damaged Halloween Pumpkin (Mission),0
+Danburite Crystal,0.01
+Darkening Agent,0.16
+Dark Lysterium,0.02
+Dark Lysterium Bar,0.06
+Dark Lysterium Cogs,0.25
+Decent Calcium Compound,0.12
+Decent Magnesium Component,0.2
+Decent Protein Strain, 
+Demon Bushweed,0.001
+Demon Hacker Texture, 
+Demon Virus Texture, 
+Denim Fabric Texture,0.02
+Desire  Potion,0.4
+Devil's Tail,0.47
+Diagen Firedrops,0.04
+Diagen Matrix,0.12
+Diamond,500
+Diamond Texture,8
+Dianthus Crystal Powder,0.6
+Dianthus Liquid,0.3
+Dianum Ingot,3.75
+Dianum Ore,1.25
+Dianum Texture,1.45
+Diluted Body Oil,0.05
+Diluted Cloth Extractor,0.01
+Diluted Mineral Extractor,0.01
+Diluted Sweat,0.01
+Dire Weed Flaxen,0.2
+Disapointment Potion,0.03
+Disc Brake,0.6
+Discharge Module,3.5
+Discipline Potion,0.3
+Distilled Sweat Crystal,1.1106
+Divine GPS Unit,1
+DNA Fragment A,1
+DNA Fragment B,2
+DNA Fragment C,2.56
+DNA Fragment D,3.15
+DNA Fragment E,5
+Doors Hide,0.3
+Doors Tail,0.3
+Dopamine,0.05
+Dotty's Fangs,0.8
+Dragon Blood,0.5
+Dragon Eye,0.5
+Dragon Heart,0.2
+Dragon Horn, 
+Dragon Tooth,0.4
+Drake Claw,0.015
+Drake Head,0.1
+Drake Heart,0.02
+Drake Soul,0.01
+Drake Tail,0.01
+Drake Wing,0.03
+Dread's Bonepiece,1.8
+Dreams,0.8
+Drive Shaft,0.9
+Dromia Hide,0.06
+Dromia Leather,0.18
+Dromia Leather Texture,0.04
+Drone Soldier Head,60
+Duhol Hand Band,0.11
+Duhol Sack of Bones,0.13
+Duhol Strings,0.22
+Dunkel Particle,0.55
+Dunkel Plastix,1.1
+Durable Coil,0.066
+Durable Compressor,0.0416
+Durable Damper,0.033
+Durable Hood,0.0416
+Durable Motor,0.1008
+Durable Structure,0.149
+Durulium Ingot,2.4
+Durulium Stone,0.8
+Durulium Texture,1
+Dutch Pirate Flag,2
+Edres Resin,0.13
+Edres Varnish,0.26
+Electronic Stabilizing Component,0.2
+Electropositive Capacitor,0.033
+Electropositive Communication,0.044
+Electropositive Connector,0.181818
+Electropositive Modulator,0.0208
+Electropositive Processor,0.0416
+Electropositive Security Module,0.09
+Elvis Claw,0.2
+Elvis Dragon Leather,0.6
+Elvis Dragon Texture,0.15
+Elvis Hide,0.2
+Elvis Tail,0.5
+Elysian Power Sphere,0.05
+Elysian Tech Chip,0.00001
+Emerald,300
+Emerald Texture,5
+Empis Hide,0.8
+Empis Leather,2.4
+Empis Texture,0.8
+Empty Enhancer Component,1
+Endorphins,0.02
+Energized Crystal,0.3
+Energized Crystal Cell,0.6
+Energized Fertilizer,0.47
+Energy Chamber,2
+Energy Matter Residue,0.01
+Enhanced Adaptive Fuse,1.17
+Enhanced Cloth Extractor,0.01
+Enhanced Electronic Fluid Memory,0.53
+Enhanced Metal Extractor,0.01
+Enhanced Mineral Extractor,0.01
+Enhanced Mountings,1.9
+Enhanced Optical Wave Emitter,1.1
+Enhanced Organic Wire,1.24
+Enhanced Scanning Sensor,0.61
+Enhanced Strategic Combat Processor,0.47
+Enhanced Talytic Converters,2.6
+Enhanced Target Assessment Unit,0.41
+Eomon Blood Sample Type A,1
+Eomon Blood Sample Type B,2
+Eomon Blood Sample Type C,5
+Eomon Blood Sample Type D,50
+Eomon Blood Sample Type E,100
+Eomon Leather,18.66
+Eomon Leather Texture,18.66
+Eomon Skin,6.22
+Epidote Crystal,0.02
+Erdorium Ingot,1.2
+Erdorium Stone,0.4
+Erdorium Texture,0.6
+Erionite Ingot,0.6
+Erionite Stone,0.2
+Essence of Evil,1
+Eudialyte Crystal,0.01
+Evenweave Cotton Fabric Texture,0.09
+Exarosaur Cloth,0.36
+Exarosaur DNA Samples,11
+Exarosaur Leather,0.3
+Exarosaur Leather Texture,0.17
+Exarosaur Neckbone,0.34
+Exarosaur Skin,0.1
+Exarosaur Skull,9
+Exarosaur Tooth,0.12
+Exarosaur Wool,0.12
+Exceptional Robot Contraction Unit,26
+Exceptional Robot Hyper Charger,7.8
+Exceptional Robot Optical Lens,1.78
+Explosive Projectiles,0.0001
+Extended Bolt Carriage,3
+Extended Breech,2.7
+Eyeshadow (Dark Tangerine),7
+Eyeshadow (Gold),8
+Eyeshadow (Hollywood Cerise),7
+Eyeshadow (Medium Purple),7
+Eyeshadow (Olive Drab),7
+Eyeshadow (Pale Brown),7
+Eyeshadow (Pale Cornflower Blue),7
+Eyeshadow (Silver),8
+Eyeshadow (Slate Grey),8
+Eyeshadow (Steel Blue),7
+Eyeshadow (White),7
+Face Paint (Black),5
+Face Paint (Blue),5
+Face Paint (Dark Brown),5
+Face Paint (Dark Green),5
+Face Paint (Green),5
+Face Paint (Grey),5
+Face Paint (Navy Blue),5
+Face Paint (Olive),5
+Face Paint (Orange),5
+Face Paint (Pale Brown),5
+Face Paint (Pink),5
+Face Paint (Purple),5
+Face Paint (Red),5
+Face Paint (Turqoise),5
+Face Paint (White),5
+Face Paint (Yellow),5
+Failure Potion,0.75
+Fairuz Ingot,0.15
+Fairuz Stone,0.05
+Faith Potion,0.3
+Faucervix Claw,0.03
+Faucervix Leather,0.6
+Faucervix Leather Texture,0.26
+Faucervix Skin,0.2
+Faucervix Skull,11.3
+Feedback Coupling,2.5
+Feffox Leather,3.09
+Feffox Leather Texture,1.05
+Feffox Skin,1.03
+Felt Fabric Texture,0.24
+Feran Hide,0.07
+Feran Leather,0.21
+Feran Leather Texture,0.05
+Feran Wing Claw,0.75
+Ferguson's All Purpose Lube,0.1
+Ferguson's Amalgam,0.0666
+Ferguson's Refined Amalgam,0.11
+Ferrum Nuts,1
+Fi/Ra/Co Cause Parts,1
+Fi/Ra/Co Evil Parts,1
+Fine Frieze Fabric Texture,0.19
+Fine Frote Fabric Texture,0.29
+Fine Hessian Fabric Texture,0.03
+Fine Hide,0.25
+Fine Leather,0.75
+Fine Leather Texture,0.74
+Fine Lens,0.06
+Fine Silk Fabric Texture,0.26
+Fine Textile,1.2
+Fine Wool,0.4
+Fire Root Globule,0.3
+Fire Root Pellet,0.6
+Firn Board,0.59
+Firn Texture,0.12
+Firn Veneer,0.01
+Fish Oil,0.03
+Fish Scales,4.7
+Flair Potion,0.65
+Flannel Fabric Texture,0.03
+Flash Suppressor,3.2
+Flesh,0.13
+Flesh Ripper Hide,4.7
+Flesh Ripper Leather,14.1
+Flesh Ripper Texture,4.7
+Flint Arrow Head,0.24
+Flint Axe Head,0.18
+Florican Mist,0.27
+Florican Spray,0.54
+Flourite,140
+Fluorite Crystal,0.03
+Fly Amber,0.3
+Focusing Lens,2
+Focus Lens Component,0.2
+Focus Potion,0.7
+Folk Ingot,0.09
+Folk Rock,0.03
+Force Nexus,0.01
+Foresight Potion,0.04
+Formicacida Leg,7.98
+Formicacida Scale,12
+Formicacida Skull,18
+Formidon Leather,1.38
+Formidon Leather Texture,1.36
+Formidon Skin,0.46
+Formidon Skull,43
+Fossil Ammonite,0.06
+Fossil Tooth,0.03
+Foul Bone,0.03
+Foul Bone Buttons,0.09
+Foul Eye,0.17
+Foul Leather,0.9
+Foul Leather Texture,0.37
+Foul Skin,0.3
+Foul Skull,10
+Foul Suctioncup,0.19
+Foul Teeth,0.18
+Foundation (Bronze),5
+Foundation (Brown),5
+Foundation (Chocolate),5
+Foundation (Dark Brown),5
+Foundation (Golden Brown),5
+Foundation (Pale Brown),5
+Foundation (Pale Pink),5
+Foundation (Peach),5
+Foundation (Tan),5
+Foundation (Wheat),5
+Frakite Ingot,0.9
+Frakite Stone,0.3
+French Pirate Flag,2
+Frescoquda Back Scale,3.61
+Frescoquda Foot,17.6
+Frescoquda Hide,0.54
+Frescoquda Leather,1.62
+Frescoquda Leather Texture,2
+Frescoquda Tentacles,6.6
+Frigulerian Dust,3.4405
+Frigulite Ingot,0.36
+Frigulite Stone,0.12
+Frigulite Texture,0.32
+Fuel Cells,0.05
+Fugabarba Leather,0.03
+Fugabarba Leather Texture,0.16
+Fugabarba Skin,0.01
+Fully Developed Halloween Pumpkin (Mission),0
+Fungoid  DNA Samples,37.8
+Fungoid Hat,12
+Fungoid Tentacle,4.5
+Furor DNA Samples,63.5
+Furor Eye,18
+Furor Skull,23
+Galaurphite Ingot,14.7353
+Galaxy 6V Gel Batteries,1.2
+Galaxy 8V Gel Batteries,1.4
+Galaxy 12V Gel Batteries,1.5
+Galaxy 14V Gel Batteries,2.2
+Galaxy S1 Ion Conductors,0.2
+Galaxy S2 Ion Conductors,0.3
+Galaxy S3 Ion Conductors,0.5
+Gallard Hide,0.02
+Gallard Leather,0.06
+Gallard Leather Texture,0.01
+Galvesperdite Ingot,6.3625
+Gamer Chick Trucker Cap Blueprint,0.01
+Ganganite Ingot,0.36
+Ganganite Stone,0.12
+Ganganite Texture,0.32
+Garcen Grease,0.1
+Garcen Lubricant,0.2
+Garcia Claw,0.1
+Garcia Dragon Leather,1.5
+Garcia Dragon Texture,0.25
+Garcia Hide,0.5
+Garcia Tail,0.5
+Garcia Wing,0.5
+Garnet,150
+Gas Module,2.25
+Gas Plug,1.5
+Gazzurdite Ingot,0.75
+Gazzurdite Stone,0.25
+Gazzurdite Texture,0.45
+GEC Coil Springs 1M,0.9
+GEC Coil Springs 2M,1.2
+GEC Spur Gears 1K,0.3
+GEC Spur Gears 2K,0.65
+GEC Spur Gears 4K,1.75
+GEC Spur Gears 5K,2
+Generic Fuse,5
+Generic Leather,0.03
+Generic Leather Texture,0.05
+Generic Transformer,5
+Genesis Rookie Seismic Bomb,0.1
+Genesis Rookie Survey Probe,0.1
+Genesis Star Com Unit,2.3
+Genesis Star Encrypted Holder,6.5
+Genesis Star Encrypted Holder Series 2,2.8
+Genesis Star Visual Display,3.1
+GeoTrek Buttstock,0.8
+GeoTrek EnBolts,1.3
+GeoTrek Hardened Buttstock,0.9
+GeoTrek Hardened EnBolts,1.4
+GeoTrek Hardened Talytic Converters,1.1
+GeoTrek Super Alloy Buttstock,0.8
+GeoTrek Super Alloy EnBolts,1.5
+GeoTrek Super Alloy Talytic Converters,1.2
+GeoTrek Talytic Converters,1
+German Pirate Flag,1
+Ghali,0.16
+Ghali Powder,0.32
+Giant Banana,10
+Giant Banana Bunch,100
+Gimbals,1
+Girder Beams,0.7
+Glam Ingot,0.12
+Glam Rock,0.04
+Glitter Spray (Gold),17
+Glitter Spray (Pink),17
+Glitter Spray (Royal Blue),17
+Glitter Spray (Silver),17
+Glitter Spray (White),17
+GMC Gamma Hide,1
+GMC Gamma Leather,3
+GMC Gamma Leather Texture,0.72
+Gokibusagi Skull,33
+Golden Chainsaw Gas Cap, 
+Golden Shaker,2
+Gold Ingot,3
+Gold Stone,1
+Gold Texture,1.2
+Good Calcium Compound,0.06
+Gorbek Emulsion,0.4
+Gorbek Tallow,0.8
+Gosubusagi Blood Sample,150
+Gradivore Leather,1.2
+Gradivore Leather Texture,0.24
+Gradivore Skin,0.4
+Gradivore Textile,1.92
+Gradivore Wool,0.64
+Graphene Composite,5
+Graphene Polymer,1
+Grated Metal Texture,1.15
+Gray Cassette,0.01
+Greater Claw,0.04
+Greater Power Crystal,300
+Green Cassette,0.02
+Green CD,0.4
+Green Crystal,0.03
+Green Crystal Texture,0.0533
+Green Energized Glass,5
+Grindhouse Rodriguez Death Vinyl,0.01
+Grindhouse Sleaze Death Vinyl,0.01
+Grindhouse Striptease Death Vinyl,0.01
+Grindhouse Tarantino Death Vinyl,0.01
+Grooved Metal Texture,0.58
+Growth Molecules,0.47
+Grunge Ingot,0.12
+Grunge Rock,0.04
+Hadraada DNA Cartridge, 
+Hadraada Flesh,2
+Hadraada Hide,0.25
+Hadraada Leather,0.75
+Hadraada Leather Texture,0.18
+Hadraada Long Bone,2
+Hadraada Lumbar Plate,0.2
+Hadraada Mandible,2
+Hadraada Skull Plate, 
+Hadraada Spinal Plate,2
+Haimoros,0.00001
+Haimoros Gel,2
+Hair Gel,0.13
+Hair Spray,0.06
+Halite Crystal,0.05
+Halix DNA Cartridge, 
+Halix Eye,2
+Halix Hide,0.05
+Halix Leather,0.15
+Halix Leather Texture,0.04
+Halix Leg,2
+Halix Leg Fur,0.5
+Halix Mane,1
+Halix Skull, 
+Halix Tail,0.02
+Hammered Metal Texture,0.75
+Hansidian Ingot,0.03
+Hansidian Rock,0.01
+Hardened Alloy,0.0416
+Hardened Clips,0.0624
+Hardened Foil,0.033
+Hardened Metal Mountings,0.65
+Hardened Metal Plating,0.2
+Hardened Metal Ruds,0.4
+Hardened Nuts,0.033
+Hardened Pipe,0.033
+Hardened Screws,0.08
+Hardening Agent,0.04
+Hard Ingot,0.15
+Hard Rock,0.05
+Hard Work Potion,0.05
+Hareer Thread,0.24
+Harvey Wallbanger Cocktail,0.08
+Harvey Wallbanger Cocktail Mix,0.04
+Hazy Crystal,0.3
+Hazy Crystal Texture,0.5
+Healthy Halloween Pumpkin (Mission),0
+Heating Agent, 
+Heat Protective Coating,0.7
+Heat Shields,0.75
+Heavy Duty Core,0.05
+Heavy-Duty Coupling,0.07
+Heavy-Duty Engine,0.04
+Heavy-Duty Filters,0.04
+Heavy-Duty Joints,0.04
+Heavy-Duty Seals,0.08
+Heavy Power Cell,5
+Hebredite Ingot,0.75
+Hebredite Stones,0.25
+Hebredite Texture,0.3
+Hekia Texture,0.06
+Hekia Timber,0.15
+Hekia Veneer,0.01
+Helen Venture's Walking Stick,0.1
+Hematite Crystal,0.01
+Hemimorphite Crystal,0.02
+Hendrix Claw,0.5
+Hendrix Dragon Leather,0.9
+Hendrix Dragon Texture,0.15
+Hendrix Hide,0.3
+Hendrix Tail,0.8
+Henren Cube,1.26
+Henren Stems,0.63
+Hessian Fabric Texture,0.04
+Hexra Electroplate,0.3
+Hexra Gems,0.1
+High Definition GUI Component,0.3
+High Grade Alloy,0.128
+High Grade Bearings,0.32
+High Grade Electronic Component,0.02
+High Grade Metal Compound,0.45
+High Grade Motion Sensor,0.05
+High Grade Nuts,0.08
+High Grade Plugs,0.3
+High Grade Power Supply,0.09
+High Grade Processor,0.26
+High Grade Scrap,0.18
+High Grade Screws,0.18
+High Grade Wedge,0.107
+Highlighter,10
+High Performance Compressor,0.128
+High Performance Coupling,0.0224
+High Performance Engine,0.32
+High Performance Filters,0.06
+High Performance Pump,0.06
+High Performance Vents,0.06
+High Speed Control Component,0.1
+High-Tech Talytic Converters,2.8
+Himi Ingot,0.426
+Himi Rock,0.142
+Himi Texture,0.34
+Hiryuu Skull,28
+Hogglo DNA Samples,29.15
+Hogglo Pelvis,4
+Hogglo Tooth,2
+Holly ECO P35 Death Vinyl,0.01
+Holly ECO P56 Death Vinyl,0.01
+Holly ECO P72 Death Vinyl,0.01
+Horn,4.7
+Horned Mutant Skull,8.5
+Horny Devil Tail,0.01
+Hoverboard High Power Board,2
+Hoverboard High Power Pod,2
+Hoverboard Low Power Board,1
+Hoverboard Low Power Pod,1
+Hoverboard Mid Power Board,1.5
+Hoverboard Mid Power Pod,1.5
+Howlite Crystal,0.05
+Human Skull,21
+Huon Foot,0.6
+Huon Hide,1.2
+Huon Leather,3.6
+Huon Leather Texture,0.84
+Huon Tail Spike,3.8
+Hurricane Cocktail,0.02
+Hurricane Cocktail Mix,0.01
+Hyalite Crystal,0.08
+Hydrogen Gas,0.04
+Hydrogen Steam,0.02
+Ignisium Ingot,2.1
+Ignisium Stone,0.7
+Ignisium Texture,0.9
+Imperium Bearings,0.55
+Imperium Compression Unit,0.55
+Imperium Control Sensor,0.55
+Imperium Cube,0.5
+Imperium Cube Component 1,0.1
+Imperium Cube Component 2,0.1
+Imperium Cube Component 3,0.1
+Imperium Cube Component 4,0.1
+Imperium Cube Component 5,0.1
+Imperium Key Cube,0.525
+Imperium Servo,0.55
+Improved Nanites,1
+Infected Source Code,0.25
+Inferior Cloth Extractor,0.01
+Infrasound Amplifier Component,0.5
+Infrasound Emitter Component,0.4
+Inhaler,0.8
+Insight Potion,0.65
+Insulators,0.2
+Intensity Amplifier,3.5
+Interactive Simplifier Component,0.3
+Iolite Crystal,0.03
+Iolite Ingot,0.6
+Iolite Stone,0.2
+Iridium Ingot,0.15
+Iridium Ore,0.05
+Iron Ingot,0.39
+Iron Stone,0.13
+Iron Texture,0.33
+Itumatrox Leather,1.05
+Itumatrox Leather Texture,1.05
+Itumatrox Skin,0.35
+Jade,84
+Jade Fragment,0.2
+Jagged Tooth,0.02
+Jasper,68
+Jazz Ingot,0.18
+Jazz Rock,0.06
+Jeef Core Unit,0.2
+Jeef Nawa Core Part,0.05
+Jeef Qaher Hide,0.19
+Jeef Qaher Leather,0.38
+Jeef Soup,0.04
+Jeef Zajer Hide,0.12
+Jeef Zajer Leather,0.48
+Jeef Zajer Texture,0.13
+Jellyworm Hide,0.75
+Jellyworm Leather,0.225
+Jellyworm Texture,0.075
+Joplin Claw,0.5
+Joplin Dragon Leather,3
+Joplin Dragon Texture,0.3
+Joplin Hide,1
+Joplin Tail,0.4
+Joplin Wing,1
+Jori Hide,0.03
+Jori Leather,0.09
+Jori Leather Texture,0.03
+Jori Pectoral Fin,0.25
+Kadra Claw,3.2
+Kadra Eye,0.18
+Kadra Hide,1
+Kadra Leather,3
+Kadra Leather Texture,0.72
+Kaisenite Ingot,0.06
+Kaisenite Stone,0.02
+Kaldon,0.00001
+Kaldon Stone Texture,0.03
+Kamaldon Bone Crest,3
+Kamaldon DNA Cartridge, 
+Kamaldon Flesh,3
+Kamaldon Hide,2.4
+Kamaldon Leather,7.2
+Kamaldon Leather Texture,1.68
+Kamaldon Lower Mandible,0.6
+Kamaldon Tail Club, 
+Kamaldon Tongue,2
+Kamaldon Upper Mandible,4.5
+Kamikaze Cocktail,0.17
+Kamikaze Cocktail Mix,0.085
+Kanerium Ingot,7.5
+Kanerium Ore,2.5
+Kanerium Texture,2.7
+Kaz Ingot,0.12
+Kaz Stones,0.04
+Kaz Texture,0.22
+Kevin Rudolf - In The City Flip Flop,0.2
+Kevin Rudolf - To The Sky Flip Flop,0.13
+Khaffash Bone,0.11
+Khaffash Hide,0.1
+Khaffash Jaw,0.15
+Khaffash Leather,0.3
+Khaffash Texture Skin,0.1
+Khorudoul Extrusion,0.08
+Khorudoul Polymer,0.24
+Khorudoul Texture,0.4
+Khorum Alloy,0.2
+Khorum Plating,0.6
+Khorum Texture,1
+Kiana Brain, 
+Kiana DNA Cartridge, 
+Kiana Ear,0.24
+Kiana Heart,4
+Kiana Hide,0.6
+Kiana Leather,1.8
+Kiana Leather Texture,0.48
+Kiana Paw,2.5
+Kiana Spine,3
+Kiana Tail,1
+King Kong Map Fragment: Coast,1
+King Kong Map Fragment: Hills,1
+King Kong Map Fragment: Jungle,1
+King Kong Map Fragment: Legend,1
+King Kong Map Fragment: Ocean,1
+King Kong Map Fragment: Symbol,1
+King Kong Map Fragment: X,1
+Kirtz Ingot,16.8
+Kirtz Stone,5.6
+Kirtz Texture,5.8
+Kong Map,7
+Korwil Brain, 
+Korwil DNA Cartridge, 
+Korwil Ear,0.6
+Korwil Heart,4
+Korwil Hide,1.8
+Korwil Leather,5.4
+Korwil Leather Texture,1.2
+Korwil Paw,4.2
+Korwil Spine,4
+Korwil Tail,1
+Kreltin Soft Plate,3.5
+Kunzite Crystal,0.01
+Kylon's Blue,0.06
+Labradorite Crystal,0.02
+Lamp Attachments,0.3
+Langotz Ingot,2.7
+Langotz Ore,0.9
+Langotz Texture,1.1
+Lanorium Ingot,0.66
+Lanorium Stone,0.22
+Lanorium Texture,0.42
+Large Plug,0.11
+Large Ribbed Wool Fabric Texture,0.07
+Large Striped Cotton Fabric Texture,0.02
+Large Woven Cotton Fabric Texture,0.08
+Leethiz Ingot,0.45
+Lemmy Bushweed, 
+Lemmy Dragon Leather,1.5
+Lemmy Dragon Texture,0.25
+Lemmy Hemp Cloth, 
+Lemmy Hide,0.5
+Lemmy Tail,0.7
+Lemmy Wing,0.4
+Leopard Cloth,1.2
+Leopard Hide,0.8
+Leopard Texture,0.2
+Lepidocrosite Crystal,0.02
+Lesser Claw,0.02
+Lesser Elysia,0.08
+Lesser Power Crystal,200
+Letomie Fossil Backplate,12.1
+Letomie Fossil Eyelense,4.2
+Letomie Fossil Teeth,48.7
+Letomie Hide,1.34
+Letomie Leather,4.02
+Letomie Leather Texture,4
+Lidacon Ingot,4.5
+Lidacon Stones,1.5
+Lidacon Texture,1.8
+Life Essence,0.06
+Lightening Agent,0.2
+Light Liquid,0.84
+Light Mail,0.02
+Light Metal Plating,0.5
+Light Mind Essence,0.0001
+Light Power Cell,0.05
+Lip Gloss (Burgundy),8
+Lip Gloss (Cardinal),8
+Lip Gloss (Carnation Pink),8
+Lip Gloss (Hot Pink),8
+Lip Gloss (Pale Red Violet),8
+Lip Gloss (Pink-Orange),8
+Lip Gloss (Silver),8
+Lip Liner (Black),4
+Lip Liner (Burgundy),4
+Lip Liner (Crimson),4
+Lip Liner (Hollywood Cerise),4
+Lip Liner (Maroon),4
+Lip Liner (Pink-Orange),4
+Lipstick (Auburn),9
+Lipstick (Black),9
+Lipstick (Burgundy),9
+Lipstick (Cardinal),9
+Lipstick (Hollywood Cerise),11
+Lipstick (Pink-Orange),9
+Living Vortex Hide,1
+Living Vortex Leather,3
+Living Vortex Texture,1
+Long Bigwig Board,1.66
+Long Board,0.03
+Long Firn Board,0.91
+Long Island Ice Tea Cocktail,0.1
+Long Island Ice Tea Cocktail Mix,0.05
+Long Midastree Board,0.38
+Long Moonleaf Board,0.06
+Long Screws,0.04
+Long Stinktree Board,0.52
+Longtooth Skin,0.6
+Longu Claw,0.01
+Longu Leather,1.5
+Longu Leather Texture,0.55
+Longu Plate,13
+Longu Skin,0.5
+Lotium Fluid,0.3
+Lotium Gel,0.6
+L-O-V-E Potion,0.5
+Low Grade Electronic Component,0.17
+Low Grade Metal Compound,0.09
+Low Grade Motherboard,0.52
+Low Grade Motion Sensor,0.5
+Low Grade Power Supply,0.0187
+Low Grade Processor,1.62
+Low Grade Scrap,0.03
+Luck Potion,0.04
+Lulu pearl,0.36
+Lulu Stone,0.12
+Lulu Texture,0.48
+Lumis Leach,0.42
+Lurker Leather,0.18
+Lurker Lube,0.1
+Lycan Charm Bracelets,2
+Lysterium Ingot,0.03
+Lysterium Power Container,0.4
+Lysterium Stone,0.01
+Lysterium Texture,0.21
+Lystionite Steel Ingot,4.0146
+Lytairian Dust,0.19
+Lytairian Powder,0.38
+Madana DNA Cartridge, 
+Madana Eye,3
+Madana Hide,0.4
+Madana Leather,1.2
+Madana Leather Texture,0.29
+Madana Leg,2
+Madana Leg Fur,1.5
+Madana Mane,2
+Madana Skull, 
+Madana Tail,0.2
+Maffoid Head,0.02
+Maganite Ingot,3.15
+Maganite Ore,1.05
+Maganite Texture,1.25
+Magerian Mist,0.25
+Magerian Spray,0.5
+Magnetic Accelerator Power Unit,15
+Magtonium Dust, 
+Magurg Male Foot,2
+Magurg Male Heart,3
+Magurg Male Pincer,0.2
+Magurg Male Tail,4
+Magurg Male Teeth,2
+Mahogany Long Board,2
+Mahogany Regular Board,0.5
+Mahogany Short Board,0.1
+Mai Tai Cocktail,0.03
+Mai Tai Cocktail Mix,0.015
+Make Up Remover Rough,0.1
+Make Up Remover Smooth,0.1
+Malachite Crystal,0.04
+Maladrite Ingot,0.12
+Maladrite Stone,0.04
+Malkat,0.11
+Mamnoon,0.08
+Mamnoon Mist,0.16
+Mang Chang Hide,1
+Mang Chang Leather,3
+Mang Chang Texture,1
+Maple Long Board,0.1
+Maple Regular Board,0.05
+Maple Short Board,0.01
+Marcimex Brain Oil,1
+Marcimex Slime,1
+Marine Chainsaw Gas Cap, 
+Maro Ingot,0.52
+Maro Stone,0.13
+Material Efficiency Component,0.5
+Material Softener,0.14
+Mature Halloween Pumpkin (Mission),0
+Mechanomatrix Adapter Unit 1,0.3903
+Mechanomatrix Adapter Unit 2,0.75
+Mechanomatrix Adapter Unit 3,1.65
+Mechano-Stabilizer Component 1,0.2
+Mechano-Stabilizer Component 2,0.3
+Mechano-Stabilizer Component 3,0.4
+Medical Compress,0.18
+Medium Frieze Fabric Texture,0.16
+Medium Grade Electronic Component,0.0133
+Medium Grade Metal, 
+Medium Grade Metal Compound,0.27
+Medium Grade Motherboard,0.07
+Medium Grade Motion Sensor,0.01
+Medium Grade Power Supply,0.048
+Medium Grade Processor,0.15
+Medium Grade Scrap,0.06
+Medium Power Cell,0.5
+Megan Ingot,0.54
+Megan Stone,0.18
+Megan Texture,0.38
+Melatinum Ingot,0.3
+Melatinum Stone,0.1
+Melatinum Texture,0.13
+Melchi Crystal,0.04
+Melchi Water,0.02
+Mermoth Leather,0.39
+Mermoth Leather Texture,0.38
+Mermoth Skin,0.13
+Merp DNA Samples,7.02
+Merp Horn,0.68
+Merp Sails,0.34
+Merp Textile,1.08
+Merp Wool,0.36
+Metallic Bone Replacement,0.28
+Metal Mountings,0.6
+Metal Plating,0.1
+Metal Residue,0.01
+Metal Ruds,0.35
+Metal Skull,34
+Midastree Board,0.21
+Midastree Texture,0.01
+Midastree Veneer,0.01
+Miluca Texture,0.02
+Miluca Timber,0.05
+Miluca Veneer,0.01
+Mind Essence,0.0001
+Minotaur Arm,0.03
+Minotaur Head,0.1
+Minotaur Horn,0.03
+Minotaur Leg,0.01
+Minotaur Shin Guard,0.02
+Minotaur Shoulder Pauldron,0.015
+Minotaur Tail,0.01
+Miranda Violet,0.04
+Mitochondria, 
+Modified Nanites,1
+Modified Source Code,0.25
+Mojito Cocktail,0.04
+Mojito Cocktail Mix,0.02
+Mokhat Hand,0.02
+Mokhat Organ,0.06
+Moldavite Crystal,0.01
+Molisk Claw,0.01
+Molisk DNA Samples,9.8
+Molisk Enamel Buttons,0.03
+Molisk Skull,5
+Molisk Tooth,0.01
+Monrian Enhanced Plating,3.33
+Monrian Enhanced Power System,2.1
+Monrian Plating,0.11
+Monrian Power System,0.07
+Monster Truck Tire,0.5
+Monster Truck Tire Rim,1
+Monster Truck Wheel,0.5
+Monura Female Hide,0.03
+Monura Female Leather,0.09
+Monura Female Leather Texture,0.02
+Monura Male Hide,0.03
+Monura Male Leather,0.09
+Monura Male Leather Texture,0.02
+Moonleaf Board,0.03
+Morpheus Ingot,2.49
+Morpheus Stone,0.83
+Morpheus Texture,1.03
+Morrison Dragon Leather,0.9
+Morrison Dragon Texture,0.15
+Morrison Hide,0.3
+Morrison Tail,0.4
+Morrison Wing, 
+Mosquito Amber,0.9
+Motorhead - Ace of Spades Album,0.05
+MOTORHEAD BEER CAN,0
+Motorhead - Bomber Album,0.01
+Motorhead - Iron Fist Album,15
+Motorhead Keg,0.01
+Motorhead - Motorhead Album,1
+Motorhead - Overkill Album,5
+Motörhead Security Blood,1
+Motörhead Security Hide,0.5
+Motörhead Security Horn,2
+Mourner Leather,0.45
+Mourner Leather Texture,0.45
+Mourner Skin,0.15
+Wiles Stone,0.3
+Wiley Ingot,0.9
+Wind Screen,0.9
+Wolf Blood,0.5
+Wolf Charm Bracelets,5
+Wolf Eye,0.1
+Wolf Fangs,0.5
+Wolf Fur,0.5
+Wolf Heart,0.5
+Wolf Leather,0.5
+Wolf Meat,0.3
+Wolf Paw,0.8
+Wolf Wool,0.3
+Wombana Hide,0.15
+Wombana Leather,0.45
+Wombana Leather Texture,0.11
+Wood Shavings,0.001
+Wool,0.2
+Wool Cloth,0.6
+Wool Thread,0.75
+Worn Feedback Panel,0.05
+Worn Fuel Pump,0.05
+Worn Splicing Detector,0.05
+Wrinkled Felt Fabric Texture,0.28
+Wulfenite Crystal,0.09
+Xelo Haze,0.39
+Xelo Vapour,0.78
+Xeremite Ingot,12
+Xeremite Ore,4
+Xeremite Texture,4.2
+Yarrijak DNA Cartridge, 
+Yarrijak Head, 
+Yarrijak Tail,0.25
+Yarrijak Thorax,0.25
+Yarrijak Wing,1.5
+Yashib Ingot,0.65
+Yashib Stone,0.13
+Ycy Ingot,1.05
+Yellow Cassette,0.01
+Yellow CD,0.01
+Yellow Crystal,0.01
+Yellow Crystal Texture,0.02
+Yog Eyeball,1.5
+Yog Skin,0.7
+Yog Tusk,0.1
+Youd,0.04
+Youd Bottle,0.08
+Youngite Crystal,0.04
+Yuka DNA Cartridge, 
+Yuka Flesh,4
+Yuka Hide,2.8
+Yuka Leather,8.4
+Yuka Leather Texture,1.92
+Yuka Long Bone,2
+Yuka Mandible,6
+Yuka Shoulder Plate,1
+Yuka Skull Plate, 
+Yuka Spinal Plate,4.8
+Yulerium Ingot,1.5
+Yulerium Stones,0.5
+Yulerium Texture,0.6
+Zadul Brain, 
+Zadul DNA Cartridge, 
+Zadul Eye,0.25
+Zadul Foot,1
+Zadul Hide,0.15
+Zadul Leather,0.45
+Zadul Leather Texture,0.11
+Zadul Nail,1
+Zadul Spine,3
+Zanderium Ingot,7.5
+Zanderium Ore,2.5
+Zekkonian Relic,1
+Zekkonian Wasp Queen Call,0
+Zeladoth Texture,4.7
+Zincalicid Energy Crystal,4.24
+Zinc Ingot,0.3
+Zincite Crystal,0.01
+Zinc Stone,0.1
+Zinc Texture,0.3
+Zir Button,0.18
+Zircon Ingot,0.15
+Zircon Stone,0.05
+Zoisite Crystal,0.06
+Zoldenite Crystal,0.08
+Zoldenite Dust,0.04
+Zolphic Grease,0.08
+Zolphic Oil,0.04
+Zombie Blood,1
+Zombie Bone,0.8
+Zombie Bushweed, 
+Zombie Charm Bracelets,4
+Zombie Eye,3
+Zombie Hand,4
+Zombie Hemp Cloth, 
+Zombie Leg,1
+Zombie Plasma,2
+Zombie Rotting Flesh,0.5
+Zorn Star Ingot,0.03
+Zorn Star Ore,0.01
+Zorn Star Texture,0.0233
+Zulax Ingot,1.95
+Zulax Stones,0.65
+Zulax Texture,0.78
+Zyn'Dos Blood,10
+Zyn'Kimbro Spirit Dust,10
+Robot Scrap Metal,0.02
+Robot SecEnt Head,38
+Robot Sensor,20
+Robot Servo,17
+Robot Shield Generator,70
+Robot Speech Emulation Unit,15
+Robot Stabilizer,8.6
+Robot Tactics Analysis Unit,32
+Robot Target Processor,9.1
+Robot Thermal Sensor,0.35
+Robot Tilt Compensator,10.5
+Robot Tracking Sensor,38.9
+Robot Weapon Amplifier,0.15
+Robot Weapon Grip,0.058
+Robot Weapon Sight,0.21
+ROCKstar Dust,0.00001
+ROCKtropia Gold Coin,0.0001
+ROCKtropia Record,0.001
+ROCKtropia Rollies,0.1
+ROCKtropia Telemans Coin,2
+ROCKtropia War Bond,5
+Rocktropia War Bond Blueprint (L), 
+ROCTEC Chair Frame,0.4
+ROCTEC Combuster,0.3
+ROCTEC Disc Brake,0.6
+ROCTEC Drive Shaft,0.9
+ROCTEC Girder Beams,0.7
+ROCTEC Lamp Attachments,0.3
+ROCTEC Radiator,0.4
+ROCTEC Steering Rod,0.5
+ROCTEC Vehicle Battery,0.91
+ROCTEC Wetski Steering Column,1
+ROCTEC Wind Screen,0.9
+Rolled Smokes,1
+Romanian Pirate Flag,3
+Rookie Weapon Cell,0.0001
+Root Acid,0.64
+Rosewood Long Board,0.5
+Rosewood Regular Board,0.45
+Rosewood Short Board,0.25
+Rotten Banana,0.01
+Rotten Banana Bunch,1
+Rotten Halloween Pumpkin (Mission),0
+Rouge (Burgundy),5
+Rouge (Cardinal),5
+Rouge (Carnation Pink),5
+Rouge (Coral),5
+Rouge (Hot Pink),5
+Rouge (Pink-Orange),5
+Rough Hide,3.5
+Rough Leather,10.5
+Rough Metal Texture,0.5
+Rubberized Grommit,0.32
+Rubber Lists,0.4
+Ruby,400
+Ruby Texture, 
+Rudolf Claw,0.1
+Rudolf Dragon Leather,0.6
+Rudolf Dragon Texture Old,0.6
+Rudolf Hide,0.2
+Rudolf Tail,0.2
+Rudolf Texture,0.1
+Rugaritz Ingot,4.5
+Rugaritz Ore,1.5
+Rugaritz Texture,1.7
+Russian Pirate Flag,1
+Rustic Chainsaw Gas Cap,0.1
+Rusty Metal Robot Scrap,0.74
+Rutol,0.00001
+Rutol Stone Texture,0.04
+Ruxxnet Code,0.3
+Sabakuma Fang,0.01
+Sabakuma Leather,0.33
+Sabakuma Leather Texture,0.15
+Sabakuma Scale,5
+Sabakuma Skin,0.11
+Sacred Fire Skull,15
+Sacred Forest Skull,5
+Sacred Water Skull,10
+Sand King Blood Sample,200
+Sandrunner Fuel Cells,0.04
+Satin Fabric Texture,0.35
+Scapolite,100
+Scoria Hide,0.45
+Scoria Leather,1.35
+Scoria Leather Texture,0.3
+Scoria leg,0.32
+Scrap Iron,0.058
+Scrap Metal,0.0416
+Scrap Steel,0.038
+Sea Wraith Hide,0.08
+Sea Wraith Leather,0.24
+Sea Wraith Texture,0.088
+Second-Rate Cloth Extractor,0.01
+Selenite Crystal,0.02
+Sham,0.05
+Sham Sand,0.01
+Shamsdar Card Part (Center),0.01
+Shamsdar Card Part (Left),0.01
+Shamsdar Card Part (Right),0.01
+Shark Blood,0.01
+Shark Eye,0.01
+Shark Fin,0.01
+Shark Head,0.1
+Shark Tail,0.02
+Shark Tooth,0.2
+Sharp Longu Claw,1
+Shed Skreel Tail,0.01
+Shinkiba Skin,0.15
+Shinkiba Skull,4
+Shinkiba Tusk,4
+Shoggoth Skin,0.15
+Shoggoth Tentacle,5.6
+Short Bigwig Board,0.76
+Short Firn Board,0.18
+Short Midastree Board,0.04
+Short Moonleaf Board,0.01
+Short Stinktree Board,0.11
+Shrapnel,0.0001
+Shub Skin,1.03
+Shub Skull,15.6
+Sicarius Brute Hide,0.6
+Sicarius Brute Leather,1.8
+Sicarius Brute Leather Texture,0.48
+Sicarius Commander Hide,0.5
+Sicarius Commander Leather,1.5
+Sicarius Commander Leather Texture,0.36
+Sicarius Hide,0.4
+Sicarius Leather,1.2
+Sicarius Leather Texture,0.29
+Sickly Halloween Pumpkin (Mission),0
+Silver Party Flask,0.05
+Silver Shaker,0.5
+Simple 1 Conductors,0.3
+Simple 1 Plastic Ruds,0.5
+Simple 1 Plastic Springs,0.4
+Simple 2 Conductors,0.65
+Simple 2 Plastic Ruds,0.95
+Simple 2 Plastic Springs,0.75
+Simple 3 Conductors,1.1
+Simple 3 Plastic Ruds,1.4
+Simple 3 Plastic Springs,1.3
+Simple 4 Conductors,1.5
+Simple Borghee,0.15
+Simple Copchaih,0.14
+Simple Ibreh,0.06
+Simple Mismar,0.21
+Simple Mosannan,0.28
+Skeleton Foot,0.01
+Skeleton Gold,0.01
+Skeleton Hand,0.01
+Skeleton Head,0.1
+Skeleton Hip,0.03
+Skeleton Jaw,0.03
+Skeleton Ribs,0.05
+Skeleton Soul,0.006
+Skeleton Spine,0.07
+Small Bird Wing,4.38
+Small Plugs,0.14
+Snablesnot Leather,0.12
+Snablesnot Leather Texture,0.15
+Snablesnot Skin,0.04
+Snaggle Charm Bracelets,3
+Snarksnot Leather,0.18
+Snarksnot Leather Texture,0.19
+Snarksnot Skin,0.06
+Socket 1 Component,0.1
+Socket 2 Component,0.1
+Socket 3 Component,0.1
+Socket 4 Component,0.1
+Socket 5 Component,0.1
+Socket 6 Component,0.1
+Socket 7 Component,0.1
+Socket 8 Component,0.1
+Socket 9 Component,0.1
+Socket 10 Component,0.1
+Sodalite Crystal,0.03
+Softening Agent,0.14
+Soft Hide,0.1
+Soft Leather,0.3
+Soft Leather Texture,0.13
+Solar 6V Gel Batteries,0.65
+Solar 8V Gel Batteries,0.7
+Solar 12V Gel Batteries,0.9
+Solar 14V Gel Batteries,1.65
+Solar 16V Gel Batteries,1.95
+Solares Ingot,3.59
+Solis Beans,0.78
+Solis Paste,1.56
+Somin Glue,0.12
+Somin Tar,0.06
+Songkra Alloy,0.25
+Songkra Plating,0.75
+Songkra Texture,1.2
+Songtil Agent,0.06
+Sonic Pulse Amplifier,0.2
+Sopur,0.00001
+Sopur Stone Texture,0.05
+Sothorite Ingot,0.27
+Sothorite Ore,0.09
+Spanish Pirate Flag,3
+Special Issue Weapon Cell,0.0001
+Speed Metal,0.05
+Sphene,93
+Spruce Long Board,1
+Spruce Regular Board,0.8
+Spruce Short Board,0.5
+Standard Compressor,0.0272
+Standard Core,0.0136
+Standard Damper,0.0136
+Standard Feedback Panel,0.0452
+Standard Hinge,0.058
+Standard Holo Module,0.084
+Standard Intelligence Module,0.17
+Standard Lever,0.0192
+Standard Locks,0.06
+Standard Magnets,0.25
+Standard Matrix,0.0512
+Standard Plate,0.0128
+Standard Rod,0.0284
+Standard Springs,0.07
+Standard Transparency Layer,0.0244
+Standard Valve,0.0336
+Standard Vents,0.0168
+Standard VisioMem,0.0204
+Standard Wedge,0.0344
+Star Dust,0.16
+Star Particles,0.08
+Starrix Nodes,0.25
+Starrix Quilting,0.75
+Steering Rod,0.5
+Stibnite Crystal,0.06
+Stimulation Modulator,3
+Stinktree Board,0.31
+Stinktree Texture,0.04
+Stinktree Veneer,0.01
+Strengthened Metal Plating,0.83
+Striped Frote Fabric Texture,0.21
+Strong Cloth Extractor,0.01
+Strong Magnets,0.5
+Strong Sinew,19
+Style Potion,0.08
+Suede Fabric Texture,0.33
+Summoning Totem,0.0001
+Sunburst Ingot,0.77
+Sunburst Stone,0.11
+Sunburst Texture,0.18
+Sunjoq Hide,0.06
+Sunjoq Leather,0.18
+Sunjoq Texture Skin,0.06
+Super Adhesive,0.02
+Super Alloy Mountings,0.7
+Super Alloy Plating,0.3
+Super Alloy Ruds,0.5
+Super Charger Component,0.4
+Superior Cloth Extractor,0.01
+SUPERStar Dust, 
+Surface Hardener Component,0.2
+Surface Toughness Component,0.3
+Survey Probe,0.05
+Suspended Life Essence,0.06
+Swamp Lurker Hide,0.06
+Swamp Lurker Oil,0.03
+Swamp Lurker Texture,0.08
+Swedish Pirate Flag,1
+Sweet Glow Texture,0.03
+Sweetstuff,0.01
+Synthetic Mind Essence,0.0001
+Synthetic Rubber,0.57
+System Stabilizer,0.1
+Tablet Frame,5
+Tabtab Cavity,0.05
+Tabtab Hide,0.01
+Tabtab Leather,0.006
+TabTab Texture Skin,0.002
+TabTab Tooth,0.05
+Tailoring Remnants,0.01
+Tail Tip,0.05
+Talent Potion,0.03
+Tananite Ore,0.15
+T-Angle,0.22
+Tanhok Amber,5
+Tantardion Horn,0.02
+Tantardion Leather,1.8
+Tantardion Leather Texture,0.66
+Tantardion Skin,0.6
+Tantillion Leather,1.35
+Tantillion Leather Texture,0.39
+Tantillion Skin,0.45
+Tanzanite Crystal,0.01
+Tears Potion,0.4
+Tech Gizmo 1,0.4
+Tech Gizmo 2,0.4
+Tech Gizmo 3,0.4
+Tech Gizmo 4,0.4
+Tech Gizmo 5,0.4
+Tech Gizmo 6,0.4
+Tech Gizmo 7,0.4
+Tech Gizmo 8,0.4
+Techno Ingot,0.3
+Techno Rock,0.1
+Teladon Foot,0.6
+Teladon Hide,2
+Teladon Leather,6
+Teladon Leather Texture,1.44
+Teladon Tail Spike,4
+Telfium Ingot,0.42
+Telfium Stones,0.14
+Telfium Texture,0.25
+Tension Straps,0.05
+Terrestrial Gland,0.1
+Terrestrial Hormone,0.32
+Terrudite Ingot,3.3
+Terrudite Stone,1.1
+Terrudite Texture,1.3
+Terrycloth Fabric Texture,0.15
+Texture Enhancer,0.01
+Tezlapod Leather,0.69
+Tezlapod Leather Texture,0.67
+Tezlapod Skin,0.23
+Thawr Hide,0.2
+Thawr Horn,0.2
+Thawr Ivory,0.8
+Thawr Leather,0.6
+Thawr Sinew,0.15
+Thawr Texture Skin,0.2
+Thawr Wing,0.03
+The Devils Mickey Finn,1
+Thermodure Plastic Texture,0.28
+Thermodure Robot Plastic,0.27
+THING Blood,1
+Thin Wool,0.25
+Thulite Crystal,0.06
+Tiarak Elbow Spur,1.25
+Tiarak Hide,0.2
+Tiarak Leather,0.6
+Tiarak Leather Texture,0.15
+Tiarak Nail,0.2
+Tier 1 Component,0.1
+Tier 2 Component,0.14
+Tier 3 Component,0.2
+Tier 4 Component,0.27
+Tier 5 Component,0.4
+Tier 6 Component,0.5
+Tier 7 Component,0.7
+Tier 8 Component,1
+Tier 9 Component,1.4
+Tier 10 Component,2
+Tiger Cloth,1.5
+Tiger Hide,0.5
+Tiger's Eye,0.08
+Tiger Texture,0.3
+Tight Knitted Wool Fabric Texture,0.05
+Time Travel Crystal,0.01
+Tiny Mutant Skull,8
+Togolossi Hide,1
+Togolossi Leather,3
+Togolossi Leather Texture,0.72
+Topaz,59
+Topaz Crystal,0.02
+Tourmaline,75
+Tourmaline Crystal,0.09
+TPT Fragment,0.01
+Traeskeron Leather,0.9
+Traeskeron Leather Texture,0.31
+Traeskeron Matriarch Blood Sample,100
+Traeskeron Skin,0.3
+Transformer,2.17
+Transgen Bombardo,1
+Transgen Caroot,1
+Transgen Haimoros,1
+Transgen Papplon,1
+Tree Dragon Leather, 
+Tridenite Ingot,6
+Tridenite Ore,2
+Tridenite Texture,2.2
+Triphased Auxiliary Socket,0.052
+Triphased Holo Module,0.2
+Triphased Intelligence Module,0.5
+Triphased Power Systems,0.04
+Triphased Transmitter,0.04
+Triphased Wires,0.12
+Tripudion Leather,0.9
+Tripudion Leather Texture,0.34
+Tripudion Skin,0.3
+Troll Bushweed, 
+Trutun,0.00001
+Trutun Stone Texture,0.06
+Turp Leather,0.06
+Turp Leather Texture,0.07
+Turp Skin,0.02
+Turquoise,41
+Turquoise Crystal,0.02
+Twin Halloween Pumpkin (Mission),0
+Typonolic Gas,0.3
+Typonolic Steam,0.15
+Ubo DNA Cartridge, 
+Ubo Eye,1
+Ubo Flesh,2
+Ubo Mandible,2
+Ubo Poison Globule,5
+Ubo Vesicle,0.04
+Ulexite Crystal,0.06
+Ultra Cold Fabric,1.6
+Umbranoid Bag (Blue),10
+Umbranoid Bag (Bright),27
+Umbranoid Bag (Dark),24
+Umbranoid Bag (Red),15
+Umbranoid Paste Pot,82
+Umbranoid Symbol (Female),1
+Umbranoid Symbol (Male),1
+Umbranoid Tube,23
+Universal Ammo,0.0001
+Unruly's Dense Plate,1.2
+Valurite Ingot,18
+Valurite Stone,6
+Valurite Texture,6.2
+Vampire Blood,0.1
+Vampire Bone,0.1
+Vampire Charm Bracelets,2
+Vampire Eye,0.5
+Vampire Fangs,0.5
+Vampire Heart,0.5
+Vampire Plasma,0.3
+Vanadinite Crystal,0.06
+Vedacore Fibre,0.15
+Vedacore Sheeting,0.45
+Vedacore Texture,0.75
+Veda Ingot,0.18
+Veda Stones,0.06
+Veda Texture,0.24
+Vegatation Spores,0.4
+Velvet Fabric Texture,0.1
+Vesperdite Ingot,5.4
+Vesperdite Ore,1.8
+Vibrant Sweat,0.00001
+Vibrant Sweat Crate, 
+Vincent DPS P32 Death Vinyl,0.01
+Vincent DPS P43 Death Vinyl, 
+Vincent DPS P58 Death Vinyl, 
+Vixen Android Audio Unit,0.1
+Vixen Android Audio Unit Modified,0.2
+Vixen Android Bronze Armor Plating,0.06
+Vixen Android CPU Memory Unit,1
+Vixen Android CPU Memory Unit Modified,1.2
+Vixen Android Data Uplink Cable,0.03
+Vixen Android Defense Microchip,0.15
+Vixen Android F-0-X Drive,0.01
+Vixen Android First Aid Microchip,0.35
+Vixen Android Gear,0.01
+Vixen Android Gear Modified,1
+Vixen Android Gold Armor Plating,1
+Vixen Android Golden Arm,2
+Vixen Android Golden Heart,5
+Vixen Android Golden Leg,7
+Vixen Android GPS V.D.U,10
+Vixen Android H-0-T Drive,1
+Vixen Android Healthbar V.D.U,1
+Vixen Android Intelligence Microchip,0.55
+Vixen Android Metal Armor Plating,0.02
+Vixen Android Night Scope V.D.U,0.1
+Vixen Android Oil Filter,0.12
+Vixen Android Power Cell,0.22
+Vixen Android Power Cell Modified,16
+Vixen Android Power Transfer Cable,2
+Vixen Android S-E-X Drive,15
+Vixen Android Thermal Tank V.D.U,0.01
+Vixen Android Visual Optics Unit,0.65
+Vixen Android Visual Optics Unit Modified,30
+Vixen Android Vocal Unit,30
+Vixen Android Vocal Unit Modified,130
+Vixen Android Weapons Guidance V.D.U,5
+Vixen Bushweed,0.001
+Vixen Hemp Cloth, 
+Vorn Pellets,0.2
+Vorn Plastic,0.4
+Warm THING Blood,1
+Warren's Claw,1.6
+Water Essence,1
+Weak Calcium Compound,0.06
+Weak Cloth Extractor,0.01
+Weakened Power Crystal,100
+Weak Magnets,0.12
+Weak Protein Strain,0.41
+Weak Sinew,10
+Weapon Cells,0.0001
+Weld Filament,0.05
+Welding Wire,0.0001
+Wenrex Ingot,0.51
+Wenrex Stones,0.17
+Wenrex Texture,0.2
+Werewolf Blood,0.4
+Werewolf Bone, 
+Werewolf Claw,0.1
+Werewolf Eye,0.6
+Werewolf Fangs,0.6
+Wetski Fiberglass,0.01
+Wetski Gas Cap, 
+Whiskey Sour Cocktail,0.15
+Whiskey Sour Cocktail Mix,0.075
+Multi-Fang Mutant Skull,6.5
+Muscovite Crystal,0.06
+Mutant DNA Strand,0.02
+Mutated Aurli Bone Piece,1
+Mutated Halloween Pumpkin (Mission),0
+Mutation Agent,50
+Nahar Mist Texture,0.04
+Nanocube,0.01
+Narcanisum Ingot,0.24
+Narcanisum Stone,0.08
+Narcanisum Texture,0.28
+Navi Hide,0.5
+Navi Leather,1.5
+Navi Leather Texture,0.38
+Nawa Drops,0.01
+Nawa Vial,0.02
+Neconu  DNA Samples,25.78
+Neconu Hair,0.98
+Neconu Jaw,6.7
+Neconu Teeth,0.09
+Neomex Slime,0.1
+Nepotism Potion,0.17
+NEVERDIE Dragon Leather,1
+NEVERDIE Dragon Texture, 
+NEVERDIE - GAMER CHICK HIT SINGLE,0.01
+NEVERDIE Hide, 
+NEVERDIE - NEVERDIE SINGLE,0.1
+Nexnecis Hide,0.66
+Nexnecis Leather,1.98
+Nexnecis Leather Texture,1.55
+Niksarium Ingot,1.95
+Niksarium Stone,0.65
+Niksarium Texture,0.85
+Nirvana Cocktail,0.04
+Nirvana Cocktail Mix,0.02
+Nissit,0.00001
+Nissit Stone Texture,0.02
+Nosifer Stone,0.08
+Nosi Ingot,0.24
+Nosi Texture,0.16
+Novaculite Crystal,0.02
+Nova Fragment,0.00001
+Nuclear Blast Launch Codes,0.1
+Nuclear Bushweed,0.001
+Nuclear Hemp Cloth, 
+Nusul DNA Cartridge, 
+Nusul Ear,0.2
+Nusul Flesh,1
+Nusul Foot,2
+Nusul Hide,0.15
+Nusul Leather,0.45
+Nusul Leather Texture,0.11
+Nusul Nose,3
+Nusul Tail,1
+Nutrio Bar,0.01
+Obsidian Crystal,0.05
+Oculus Leather,0.93
+Oculus Leather Texture,0.94
+Oculus Skin,0.31
+Oil,0.02
+Oiled Arkace Boards,0.3
+Oiled Corria Boards,0.5
+Oiled Hekia Boards,0.4
+Oiled Miluca Boards,0.2
+Okenite Crystal,0.03
+Old Bus Token,0.01
+Old Subway Token,0.01
+Olerin Ingot,0.21
+Olerin Stone,0.07
+Omegaton A100 Series Parts,1
+Omegaton Decoy,0.25
+Omegaton Seismic Bomb,1
+Onyx,0.04
+Oompa Hide,0.25
+Oompa Leather,0.75
+Oompa Leather Texture,0.18
+Oompa Warhound Hide,0.5
+Oompa Warhound Leather,1.5
+Oompa Warhound Leather Texture,0.38
+Opal,200
+Opal Crystal,0.02
+Opal Texture,15
+Open Source Code,0.25
+Optimism Potion,0.3
+Orange Crystal,0.07
+Orange Crystal Texture,0.12
+O Rings,0.02
+Oro Brain,3
+Oro Cranial Blade,1
+Oro DNA Cartridge, 
+Oro Flesh,2
+Oro Forearm,1
+Oro Hide,0.1
+Oro Leather,0.3
+Oro Leather Texture,0.07
+Oro Skull,0.03
+Oro Tail,2
+Ospra Ingot,0.06
+Ospra Stones,0.02
+Ospra Texture,0.2
+Ostelok Craw,1
+Ostelok DNA Cartridge, 
+Ostelok Foot,1
+Ostelok Hide,0.04
+Ostelok Leather,0.12
+Ostelok Leather Texture,0.04
+Ostelok Lower Beak,0.4
+Ostelok Pommel,2
+Ostelok Pommel Feather,0.45
+Ostelok Upper Beak, 
+Otorugi Brain,10
+Otorugi DNA Cartridge, 
+Otorugi Eye,2
+Otorugi Foot,1
+Otorugi Hide,0.8
+Otorugi Leather,2.4
+Otorugi Leather Texture,0.6
+Otorugi Nail,2.8
+Otorugi Shoulder Horn,0.24
+Otorugi Spine,4
+Output Amplifier Component,0.4
+Outstanding Calcium Compound,0.12
+Oweko Brain, 
+Oweko Cranial Blade,2.2
+Oweko DNA Cartridge, 
+Oweko Flesh,3
+Oweko Forearm,2
+Oweko Hide,0.5
+Oweko Leather,1.5
+Oweko Leather Texture,0.36
+Oweko Skull,0.24
+Oweko Tail,3
+Oxidized Aluminium Texture,0.37
+Oxidized Iron Texture,0.43
+Oxidized Lysterium Texture,0.31
+Ozpyn Filters,0.23
+Ozpyn Lever,0.08
+Ozpyn Matrix,0.03
+P.I.M.P Cup,20
+Paint Can (Black),1
+Paint Can (Blue),0.05
+Paint Can (Brigadier),0.5
+Paint Can (Brown),0.07
+Paint Can (Burgundy),0.19
+Paint Can (Burnt Umber),0.15
+Paint Can (Cornsilk),0.24
+Paint Can (Crimson),0.42
+Paint Can (Dark Blue),0.2
+Paint Can (Dark Crimson),2.2
+Paint Can (Dark Green),0.09
+Paint Can (Dark Lavender),0.21
+Paint Can (Dark Mauve),0.27
+Paint Can (Dark Purple),0.08
+Paint Can (Darkslate Grey),0.75
+Paint Can (Dark Steel Blue),0.06
+Paint Can (Dark Umber),0.36
+Paint Can (Deep Cadmium),0.14
+Paint Can (Green),0.07
+Paint Can (Light Green),0.09
+Paint Can (Mauve),0.11
+Paint Can (Navy),0.1
+Paint Can (Olive),0.05
+Paint Can (Orange),0.01
+Paint Can (Pink),0.08
+Paint Can (Purple),0.06
+Paint Can (Red),0.6
+Paint Can (Silver),0.29
+Paint Can (Steel Blue),0.06
+Paint Can (Turqoise),0.08
+Paint Can (Umber),0.13
+Paint Can (Violet Cream),0.12
+Paint Can (White),0.3
+Paint Can (Yellow),0.03
+Pandi Hide,0.9
+Pandi Leather,2.7
+Pandi Leather Texture,0.67
+Paneleon Hide,1
+Paneleon Leather,3
+Paneleon Texture,1.003
+Panther Cloth,3
+Panther Hide,1
+Panther Texture,0.3
+Papoo Eye,0.01
+Papoo Foot,0.01
+Papoo Heart,0.08
+Papoo Palm,0.005
+Papoo Tail,0.01
+Papoo Tooth,0.05
+Papplon,0.00001
+Papplon Spray,2
+Partial Eye Remains,0.24
+Part Of Brass Alloy,0.12
+Part Of Bronze Alloy,0.1
+Part Of Flint Arrow Head,0.08
+Part Of Flint  Axe Head,0.06
+Part Of Fly Amber,0.1
+Part Of Fossil Ammonite,0.02
+Part Of Fossil Tooth,0.01
+Part Of Mosquito Amber,0.3
+Patience Potion,0.5
+Pay Stub,0.0001
+Pearl Sand,1.92
+Pel Crystals,0.5
+Pel Liquid,1
+Perfect Hide,4.7
+Perfect Leather,14.1
+Peridot Crystal,0.02
+Petalite Crystal,0.01
+Petonium Ingot,5.37
+Petonium Stone,1.79
+Petonium Texture,1.99
+Phasm Back Spike,1.5
+Phasm Claw,5.2
+Phasm Cloth,4.2
+Phasm Hide,1.2
+Phasm Leather,3.6
+Phasm Leather Texture,4.86
+Phasm Wool,1.4
+Phenacite Crystal,0.02
+Pile of Diamonds,0.5
+Pile of Emeralds,0.3
+Pile Of Garnets,0.15
+Pile of Jasper,0.4
+Pile of Opals,0.2
+Pile Of Rubies,0.4
+Pina Colada Cocktail,0.05
+Pina Colada Cocktail Mix,0.025
+Pirrel Hexaton,0.9
+Pirrel Pellets,0.3
+Plasma,0.01
+Plastic Convector Panel,0.17
+Plastic Injection Mold,0.8
+Platinum Ingot,9
+Platinum Stone,3
+Platinum Texture,3.2
+Plumatergus DNA Samples,9.88
+Plumatergus Large Wing,4.38
+Plumatergus Leather,1.05
+Plumatergus Leather Texture,0.14
+Plumatergus Skin,0.35
+Plumatergus Small Wing,0.35
+Polished Chrome Texture,0.87
+Polished Metal Robot Scrap,1.05
+Polish Pirate Flag,3
+Poly-Alloy Strap,0.22
+Polymer Rail,0.25
+Pop Bushweed, 
+Pop Claw,0.5
+Pop Dragon Leather,0.3
+Pop Dragon Texture,0.05
+Pop Hemp Cloth, 
+Pop Hide,0.1
+POPstar Dust, 
+Pop Tail,0.1
+Potential Cure, 
+Powder (Copper),6
+Powder (Dark Chestnut),6
+Powder (Deep Peach),6
+Powder (Pale Pink),6
+Powder (Tan),6
+Power Regulator,5
+Praetonium,0.02
+Praetonium Ingot,0.04
+Prancer Leather,0.9
+Prancer Leather Texture,0.25
+Prancer Skin,0.3
+Prancer Tail,1
+Primordial Longu Claw,28
+Primordial Longu DNA Samples,238.5
+Primordial Longu Leather,2.25
+Primordial Longu Leather Texture,0.83
+Primordial Longu Skin,0.75
+Primordial Longu Skull,96
+Primordial Longu Spike,3.6
+Prison Hootch,0.05
+Pristine Khada Crystal Shard,1
+Projector Housing,1.5
+Prokaryotic Cells,0.08
+Propellant Booster,2
+Propellant Supercharger,1.8
+Propulsion Connector,5
+Protective Coating,0.04
+Proteron Blood Sample,2
+Proteron Eyes,1.5
+Proteron Neck Bone,2.5
+Proteron Ribs,7
+Proteron Skin,0.7
+Proteron Tooth,1.5
+Punk Ingot,0.21
+Punk Rock,0.07
+Pure Body Oil,0.1
+Pure Choroid,0.54
+Pure Source Code,0.25
+Purified Paneleon Gizzard,10
+Purple Crystal,0.08
+Purple Crystal Texture,0.13
+Purpurite Crystal,0.06
+Putty,0.78
+Pyrite Ingot,0.6
+Pyrite Stone,0.2
+Qaffaz Hide,0.02
+Qaffaz Leather,0.06
+Qaffaz Marrow,0.12
+Qaffaz Nail,0.07
+Qaffaz Powder,0.14
+Qaffaz Tail,0.04
+Qaffaz Texture Skin,0.02
+Qasdeer Ingot,0.75
+Qasdeer Stone,0.25
+Qaydar Card Part (Center),0.01
+Qaydar Card Part (Left),0.01
+Qaydar Card Part (Right),0.01
+Qaz Worm,0.06
+Quantium Ingot,1.8
+Quantium Stone,0.6
+Quantium Texture,0.8
+Quantum Chip,0.01
+Quartz,0.02
+Quenta Flux,0.15
+Quenta Panel,0.45
+Quil Rubber,0.5
+Quil Sap,0.25
+Rad Conveyor,17
+Radiant Khada Crystal Shard,1
+Radiator,0.4
+Raging Daikiba Bull Blood Sample,50
+Rainbow Crystal,0.15
+Rainbow Crystal Texture,0.25
+Rare Pleak Wing, 
+Rare Robot Secret Transmitter,49.62
+Rationalizer Component,0.3
+Recoil Stabiliser,2.5
+Red Cassette,1
+Red CD,0.15
+Red Molten Crystal,0.5
+Red Molten Crystal Texture,0.83
+Redulite Ingot,6.6
+Redulite Ore,2.2
+Refined Actinolite Crystal, 
+Refined Adamite Crystal,0.8
+Refined Adventurine Crystal,0.15
+Refined Aegirine Crystal,0.02
+Refined Agate Crystal,0.04
+Refined Agrellite Crystal,0.7
+Refined Amazonite Crystal, 
+Refined Amber Crystal,0.02
+Refined Amethyst Crystal,0.02
+Refined Ametrine Crystal, 
+Refined Ammolite Crystal,0.7
+Refined Angelite Crystal,0.1
+Refined Anhydrite Crystal,0.04
+Refined Apatite Crystal,0.03
+Refined Apophyllite Crystal,0.61
+Refined Aragonite Crystal,0.01
+Refined Atacamite Crystal,0.01
+Refined Atlantasite Crystal,0.02
+Refined Azeztulite Crystal,0.04
+Refined Azurite Crystal,0.03
+Refined Barite Crystal,0.07
+Refined Beryl Crystal,0.08
+Refined Bloodstone Crystal,0.09
+Refined Bornite Crystal,0.02
+Refined Bronzite Crystal,0.05
+Refined Bustamite Crystal,0.03
+Refined Cacoxenite Crystal,0.8
+Refined Calcedony Crystal,1
+Refined Calcite Crystal, 
+Refined Cats Eye Crystal,0.04
+Refined Celestite Crystal,0.03
+Refined Cerussite Crystal,0.04
+Refined Charoite Crystal,2
+Refined Chiastolite Crystal,0.08
+Refined Chlorite Crystal,0.04
+Refined Chrysoberyl Crystal,0.04
+Refined Chrysocolla Crystal, 
+Refined Chrysoprase Crystal, 
+Refined Citrine Crystal,0.07
+Refined Crocoite Crystal,800
+Refined Danburite Crystal,0.01
+Refined Epidote Crystal,0.02
+Refined Eudialyte Crystal,0.01
+Refined Fluorite Crystal,0.03
+Refined Halite Crystal,0.05
+Refined Hematite Crystal,0.01
+Refined Hemimorphite Crystal,0.02
+Refined Howlite Crystal,0.05
+Refined Hyalite Crystal,0.08
+Refined Kunzite Crystal,0.01
+Refined Labradorite Crystal,0.06
+Refined Lepidocrosite Crystal,0.02
+Refined Malachite Crystal,0.04
+Refined Moldavite Crystal,0.01
+Refined Muscovite Crystal,0.06
+Refined Novaculite Crystal,0.02
+Refined Obsidian Crystal,0.05
+Refined Okenite Crystal,0.03
+Refined Opal Crystal,0.02
+Refined Peridot Crystal,0.02
+Refined Petalite Crystal,0.01
+Refined Phenacite Crystal,0.02
+Refined Purpurite Crystal,0.06
+Refined Quartz Crystal,0.02
+Refined Rhodonite Crystal,0.04
+Refined Selenite Crystal,0.02
+Refined Sodalite Crystal,0.03
+Refined Stibnite Crystal,0.06
+Refined Tanzanite Crystal,0.01
+Refined Thulite Crystal,0.01
+Refined Tigers Eye,0.08
+Refined Topaz,0.02
+Refined Tourmaline Crystal,0.09
+Refined Turquoise Crystal, 
+Refined Ulexite Crystal,0.06
+Refined Vanadinite Crystal,0.06
+Refined Wulfenite Crystal,0.09
+Refined Youngite Crystal,0.04
+Refined Zincite Crystal,0.01
+Refined Zoisite Crystal,0.06
+Reflecting Agent,0.6
+Reflective Coating,0.6
+Reggea Ingot,0.24
+Reggea Rock,0.08
+Regula Lode,0.2
+Regula Powder,0.6
+Reinforced Bearings,0.203
+Reinforced Hinge,0.17
+Reinforced Nuts,0.05
+Reinforced Plate,0.04
+Reinforced Rod,0.067
+Reinforced Sheet Metal,0.157
+Resonation Amplifier 1,0.02
+Resonation Amplifier 2,0.03
+Resonation Amplifier 3,0.06
+Resonation Amplifier 4,0.07
+Resonation Amplifier 5,0.06
+Resonation Amplifier 6,0.09
+Resonation Amplifier 7,0.15
+Resonation Amplifier 8,0.2
+Resonation Amplifier 9,0.31
+Rextelum Chitin Fragment,4.15
+Rextelum Venom Sample,0.21
+Rhino Beetle Hide,1
+Rhino Beetle Leather,3
+Rhino Beetle Texture,1
+Rhodonite Crystal,0.04
+Ribbed Velvet Fabric Texture,0.06
+Riptor DNA Cartridge, 
+Riptor Eye,2
+Riptor Foot,1
+Riptor Heart, 
+Riptor Hide,0.5
+Riptor Leather,1.5
+Riptor Leather Texture,0.38
+Riptor Neck Frill,4
+Riptor Tail Segment,1.8
+Riptor Tongue,0.36
+Robot Adapter Module,1.2
+Robot Amplifier,40
+Robot Auto Adjuster,1.8
+Robot Bacterial Memory Unit,42.1
+Robot Binary Memory Unit,0.08
+Robot Buffers,0.77
+Robot Capacitor,18
+Robot Casing,1.01
+Robot Comlink,101
+Robot Component Residue,0.01
+Robot Com Unit,7.4
+Robot Contraction Unit,13
+Robot Converter,70
+Robot Cooling Unit,0.1
+Robot Coordination Unit,0.15
+Robot Data Link,2.3
+Robot Dynocyclic Relay,15
+Robot Energy Module,30
+Robot Energy Source,0.14
+Robot Filter,0.036
+Robot Flare Filter,4.6
+Robot Gyro,13
+Robot Gyro Unit,3.1
+Robot Heat Sinks,0.08
+Robot Hydraulic Pump Unit,50
+Robot Hyper Charger,3.9
+Robotic Enhancement Gel,0.05
+Robot Image Amplifier,5.1
+Robot Laser Optics Unit,0.45
+Robot Low-Loss Data Link,0.04
+Robot Low-Loss Link Cable,0.024
+Robot Magnetomic Throttle,15
+Robot Movement Processor,28
+Robot Nanomodulator,15
+Robot Optical Lens,0.89
+Robot Optical Processor,0.3
+Robot Pneumatic Unit,0.5
+Robot Power Amplifier,2.7
+Robot Power Generator,80
+Robot Power Transformer,21
+Robot Quantum Box,45
+Robot Radiator,15
+Robot Range Finder,5.9
+Robot Safety System,0.12
+</value>
+  </data>
+  <data name="moveIcon" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAcgIAAAKJUE5HDQoaCgAAAA1JSERSAAAAGQAAABkIBgAAAMTphWMAAAAEZ0FNQQAAsZ5hTEH3AAAAIGNIUk0AAIcQAACMEgAA/U0AAIE+AABZ6wABEg8AADzmAAAZzrrJIjIAAAEraUNDUFBob3Rvc2hvcCBJQ0MgcHJvZmlsZQAAKM9jYGAycHRxcmUSYGDIzSspCnJ3UoiIjFJgP8/AxsDMAAaJycUFjgEBPiB2Xn5eKgMG+HaNgRFEX9YFmcVAGuBKLigqAdJ/gNgoJbU4mYGB0QDIzi4vKQCKM84BskWSssHsDSB2UUiQM5B9BMjmS4ewr4DYSRD2ExC7COgJIPsLSH06mM3EATYHwpYBsUtSK0D2MjjnF1QWZaZnlCgYWlpaKjim5CelKgRXFpek5hYreOYl5xcV5BcllqSmANVC3AcGghCFoBDTAGq00GSgMgDFA4T1ORAcvoxiZxBiCJBcWlQGZTIyGRPmI8yYI8HA4L+UgYHlD0LMpJeBYYEOAwP/VISYmiEDg4A+A8O+OQDAxk/955qpqAAAAAlwSFlzAAALEwAACxMBAJqcGAAAALFJREFUSEvVzTEOwzAMQ9GcMOj9L6NWgwCZ+bIto0uGh6I0I15m1nLfn98Pv1UwrPhA0LcZDEke6A5hqGggaJdgmNFhpd8oDCudwxmGlXeNzA7sjNDb8Gd1YAfdeDz+ayTfeTyQKBPqZ95ZllwcJNRXW8V8VFE/8w6WIztBd7CQsy66MRTcbCQOrDqaDX9WdkYIhpV3j+TDFf1GYajocNAuwZCcDjgMKycDDsOZ7oCZXV+nZ62grqvDcAAAAABJRU5ErkJgggs=</value>
+  </data>
+  <data name="icono" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>AAEAAAD/////AQAAAAAAAAAMAgAAAFFTeXN0ZW0uRHJhd2luZywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWIwM2Y1ZjdmMTFkNTBhM2EFAQAAABVTeXN0ZW0uRHJhd2luZy5CaXRtYXABAAAABERhdGEHAgIAAAAJAwAAAA8DAAAAqwMAAAKJUE5HDQoaCgAAAA1JSERSAAAAOgAAADoIBgAAAOG7SigAAAAEZ0FNQQAAsZ5hTEH3AAAAIGNIUk0AAIcQAACMEgAA/U0AAIE+AABZ6wABEg8AADzmAAAZzrrJIjIAAAEraUNDUFBob3Rvc2hvcCBJQ0MgcHJvZmlsZQAAKM9jYGAycHRxcmUSYGDIzSspCnJ3UoiIjFJgP8/AxsDMAAaJycUFjgEBPiB2Xn5eKgMG+HaNgRFEX9YFmcVAGuBKLigqAdJ/gNgoJbU4mYGB0QDIzi4vKQCKM84BskWSssHsDSB2UUiQM5B9BMjmS4ewr4DYSRD2ExC7COgJIPsLSH06mM3EATYHwpYBsUtSK0D2MjjnF1QWZaZnlCgYWlpaKjim5CelKgRXFpek5hYreOYl5xcV5BcllqSmANVC3AcGghCFoBDTAGq00GSgMgDFA4T1ORAcvoxiZxBiCJBcWlQGZTIyGRPmI8yYI8HA4L+UgYHlD0LMpJeBYYEOAwP/VISYmiEDg4A+A8O+OQDAxk/955qpqAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAepJREFUaEPtlj1OxDAQhUO7iIILcAaalNwhUipOwAVocpS9BxISBS1HogwZK29lT14UOz/CsV18BY83s/NJXkHV930W0DBFaJgiNEwRGqYIDVOEhjYvT3f9SZBbqYNAQxu1LGbWiWLB78f7KcC9Iiton0kAMMiWxgjuFUlB+0wCDGDBz9vDKbi2jwbcL7ICvBxJAcVsRNmymCmio5cjKaDIlh0BDtwL3C+SArwcSQFFdtQRsGO3gPtFUoCXIylYxbOTuSgK+LMSK+z528w94XxF2fCZKKJa1PeJ+IJ92K9hM1sookeJasHvr0+HrusM+D3bsYYiurfonCDENE3TGNBnO0MoorGJ4tCtYN9A5qJ7o0XrujbMiR5A5qJ4elvBPgiBy+ViwM9alH0dQvB+uuzoNWCfLSlEI8qGQyiiI/8migAHsuEQlkQ1e4sCLVxE16JFIbIE+mxnCBDMWhTcwj1p29YLNrsHg2wl5Cc6PDcHFF+f772Y6yNncsLSnM7nQH/A+EAwP1H8wzB8kR0wyJbaoLfU1z3AuoJvD1hdI2p5GIroOESX2qDn2/cldC962gN+RdT3A0Bof4m1n6898hXVDEPgtiRy7JsnPpMAWENsaYzYN098JkGq0DBFaJgiNEwRGqYIDdOjr/4APGqayZ8PM2QAAAAASUVORK5CYIIL</value>
+  </data>
+</root>
