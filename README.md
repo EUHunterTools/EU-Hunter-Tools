@@ -5,7 +5,7 @@ ____
 
 ## How to add TWEN guns and other stuff?
 There is updated [Weapon.csv](https://github.com/EUHunterTools/EU-Hunter-Tools/blob/main/Weapon.csv) file that located in main folder on github, download it and replace it in folder "Addons" to add TWEN guns.   
-For further guns, attachments you can just go to [entropiawiki.com](http://www.entropiawiki.com/Page.aspx?page=Main+Page), find category of items that you want to add, like for example [attachments](http://www.entropiawiki.com/Chart.aspx?chart=Attachment), click on "Export to CSV", than open downloaded file and open original file (Attachment.csv) using notepad++ or any usual text editors, copy all data from downloaded file except 1st line and paste it in original file, save and close, restart app if it was open and its done.
+For further guns, attachments, gears etc. you can just go to [entropiawiki.com](http://www.entropiawiki.com/Page.aspx?page=Main+Page), find category of items that you want to add, like for example [attachments](http://www.entropiawiki.com/Chart.aspx?chart=Attachment), click on "Export to CSV", than open downloaded file and open original file (Attachment.csv) using notepad++ or any usual text editors, copy all data from downloaded file except 1st line and paste it in original file, save and close, restart app if it was open and its done.
 
 ## Installation
 Just download all files and run `.exe`, no need in installation 
