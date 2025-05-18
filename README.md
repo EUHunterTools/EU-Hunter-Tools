@@ -22,6 +22,8 @@ Check all changes in Releases, if you have already 1.0.0, than just replace .exe
 Check all changes in Releases, all curient files were updated, if you have already 0.10.0-0.11.2, than just replace .exe and files from new version in Addons
 
 ## Download
+WARNING, replace "EUHunterToolsUnusedItems.csv" file with [this one](https://github.com/EUHunterTools/EU-Hunter-Tools/blob/main/EUHunterToolsUnusedItems.csv) in "EU-Hunter ToolsV1.0.1\Addons" folder if you are downloading .7z archive.
+
 [Ver 1.0.1](https://github.com/EUHunterTools/EU-Hunter-Tools/releases/download/Ver_1.0.1/EU-Hunter.ToolsV1.0.1.7z)
 
 ## Source code
